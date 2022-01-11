@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Naam:</value>
+  </data>
+  <data name="Parent.Text" xml:space="preserve">
+    <value>Ouder:</value>
+  </data>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Titel:</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="SiteRoot" xml:space="preserve">
+    <value>Site root</value>
+  </data>
+  <data name="Before" xml:space="preserve">
+    <value>Voordat</value>
+  </data>
+  <data name="After" xml:space="preserve">
+    <value>Na</value>
+  </data>
+  <data name="Page.Select" xml:space="preserve">
+    <value>Selecteer pagina</value>
+  </data>
+  <data name="Container.Select" xml:space="preserve">
+    <value>Selecteer container</value>
+  </data>
+  <data name="Error.ChildPage.Load" xml:space="preserve">
+    <value>Fout bij het laden van onderliggende pagina's voor ouder</value>
+  </data>
+  <data name="Error.Pane.Load" xml:space="preserve">
+    <value>Fout bij het laden van deelvensterlay-outs voor thema</value>
+  </data>
+  <data name="Mesage.Page.PathExists" xml:space="preserve">
+    <value>Er bestaat al een pagina met pad {0} voor de geselecteerde bovenliggende pagina. Het paginapad moet uniek zijn voor de geselecteerde ouder.</value>
+  </data>
+  <data name="Message.Required.PageInfo" xml:space="preserve">
+    <value>Je moet een paginanaam, thema en container opgeven</value>
+  </data>
+  <data name="Error.Page.Save" xml:space="preserve">
+    <value>Fout bij opslaan van pagina</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Voer de paginanaam in</value>
+  </data>
+  <data name="Parent.HelpText" xml:space="preserve">
+    <value>Selecteer de ouder voor de pagina in de sitehiërarchie</value>
+  </data>
+  <data name="Navigation.HelpText" xml:space="preserve">
+    <value>Selecteer of de pagina deel uitmaakt van de sitenavigatie of verborgen is</value>
+  </data>
+  <data name="UrlPath.HelpText" xml:space="preserve">
+    <value>Voer optioneel een url-pad in voor deze pagina (bijv. home ). Als je geen url-pad opgeeft, wordt de paginanaam gebruikt.</value>
+  </data>
+  <data name="Redirect.HelpText" xml:space="preserve">
+    <value>Voer optioneel een url in waarnaar deze pagina moet doorverwijzen wanneer een gebruiker ernaartoe navigeert</value>
+  </data>
+  <data name="Title.HelpText" xml:space="preserve">
+    <value>Vul eventueel de paginatitel in. Als je geen paginatitel opgeeft, wordt de paginanaam gebruikt.</value>
+  </data>
+  <data name="Theme.HelpText" xml:space="preserve">
+    <value>Selecteer het thema voor deze pagina</value>
+  </data>
+  <data name="DefaultContainer.HelpText" xml:space="preserve">
+    <value>Selecteer de standaardcontainer voor de pagina</value>
+  </data>
+  <data name="Icon.HelpText" xml:space="preserve">
+    <value>Geef optioneel een pictogramklassenaam op voor deze pagina die wordt weergegeven in de sitenavigatie</value>
+  </data>
+  <data name="Personalizable.HelpText" xml:space="preserve">
+    <value>Selecteer of je wil dat gebruikers deze pagina kunnen personaliseren met hun eigen inhoud</value>
+  </data>
+  <data name="Navigation.Text" xml:space="preserve">
+    <value>Navigatie?</value>
+  </data>
+  <data name="UrlPath.Text" xml:space="preserve">
+    <value>URL-pad:</value>
+  </data>
+  <data name="Redirect.Text" xml:space="preserve">
+    <value>Omleiden:</value>
+  </data>
+  <data name="Theme.Text" xml:space="preserve">
+    <value>Thema:</value>
+  </data>
+  <data name="DefaultContainer.Text" xml:space="preserve">
+    <value>Standaardcontainer:</value>
+  </data>
+  <data name="Icon.Text" xml:space="preserve">
+    <value>Icoon:</value>
+  </data>
+  <data name="Personalizable.Text" xml:space="preserve">
+    <value>Personaliseerbaar?</value>
+  </data>
+  <data name="ThisLocation.Keep" xml:space="preserve">
+    <value>Huidige locatie behouden</value>
+  </data>
+  <data name="ToBeginning" xml:space="preserve">
+    <value>Naar het begin</value>
+  </data>
+  <data name="ToEnd" xml:space="preserve">
+    <value>Beëindigen</value>
+  </data>
+  <data name="Error.Page.Load" xml:space="preserve">
+    <value>Fout bij laden van pagina</value>
+  </data>
+  <data name="Move.HelpText" xml:space="preserve">
+    <value>Selecteer de locatie waar je de pagina wil verplaatsen ten opzichte van andere pagina's</value>
+  </data>
+  <data name="Move.Text" xml:space="preserve">
+    <value>Actie:</value>
+  </data>
+  <data name="ModuleDefinition" xml:space="preserve">
+    <value>module</value>
+  </data>
+  <data name="ModuleTitle" xml:space="preserve">
+    <value>Titel</value>
+  </data>
+  <data name="PageModules.Heading" xml:space="preserve">
+    <value>Modules</value>
+  </data>
+  <data name="ModuleSettings.Text" xml:space="preserve">
+    <value>Bewerk</value>
+  </data>
+  <data name="DeleteModule.Header" xml:space="preserve">
+    <value>Module verwijderen</value>
+  </data>
+  <data name="DeleteModule.Message" xml:space="preserve">
+    <value>Weet je zeker dat je deze module wil verwijderen?</value>
+  </data>
+  <data name="DeleteModule.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="Appearance.Heading" xml:space="preserve">
+    <value>Uiterlijk</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Rechten</value>
+  </data>
+  <data name="ThemeSettings.Heading" xml:space="preserve">
+    <value>Thema instellingen</value>
+  </data>
+  <data name="Clickable.HelpText" xml:space="preserve">
+    <value>Selecteer of de link in de sitenavigatie is ingeschakeld of uitgeschakeld</value>
+  </data>
+  <data name="Clickable.Text" xml:space="preserve">
+    <value>Klikbaar?</value>
+  </data>
+</root>
