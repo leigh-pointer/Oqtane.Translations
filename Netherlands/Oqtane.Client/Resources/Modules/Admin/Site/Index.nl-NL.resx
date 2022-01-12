@@ -318,4 +318,13 @@
   <data name="DeleteSite.Text" xml:space="preserve">
     <value>Site verwijderen</value>
   </data>
+  <data name="DefaultAlias.HelpText" xml:space="preserve">
+    <value>De standaardalias voor de site. Verzoeken voor niet-standaard aliassen worden doorgestuurd naar de standaard alias.</value>
+  </data>
+  <data name="DefaultAlias.Text" xml:space="preserve">
+    <value>Standaardalias:</value>
+  </data>
+  <data name="Aliases.Heading" xml:space="preserve">
+    <value>aliassen</value>
+  </data>
 </root>

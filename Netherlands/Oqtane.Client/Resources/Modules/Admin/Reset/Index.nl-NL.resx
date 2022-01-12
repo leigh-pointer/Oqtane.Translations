@@ -135,4 +135,22 @@
   <data name="Error.Password.Reset" xml:space="preserve">
     <value>Fout bij resetten gebruikerswachtwoord</value>
   </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Bevestigen:</value>
+  </data>
+  <data name="Conform.HelpText" xml:space="preserve">
+    <value>Geef het wachtwoord opnieuw op. Het moet exact overeenkomen met het hierboven ingevoerde wachtwoord.</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Het nieuwe wachtwoord. Het moet voldoen aan complexiteitsregels voor de site.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Je gebruikersnaam wordt ingevuld via de link die je heb ontvangen in de melding voor het opnieuw instellen van het wachtwoord</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
+  </data>
 </root>

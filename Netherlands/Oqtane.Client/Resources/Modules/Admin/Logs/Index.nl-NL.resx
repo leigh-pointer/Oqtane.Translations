@@ -192,4 +192,22 @@
   <data name="LogDetails.Text" xml:space="preserve">
     <value>Details</value>
   </data>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>Fout bij opslaan van instellingen</value>
+  </data>
+  <data name="Events.Heading" xml:space="preserve">
+    <value>Evenementen</value>
+  </data>
+  <data name="Retention.HelpText" xml:space="preserve">
+    <value>Aantal dagen evenementen om te bewaren</value>
+  </data>
+  <data name="Retention.Text" xml:space="preserve">
+    <value>Bewaartermijn (dagen):</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>Instellingen succesvol opgeslagen</value>
+  </data>
 </root>

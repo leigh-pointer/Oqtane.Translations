@@ -177,4 +177,13 @@
   <data name="System.Update" xml:space="preserve">
     <value>Controleren op systeemupdates</value>
   </data>
+  <data name="Visibility" xml:space="preserve">
+    <value>Zichtbaarheid:</value>
+  </data>
+  <data name="VisibilityEdit" xml:space="preserve">
+    <value>Alleen pagina-editors</value>
+  </data>
+  <data name="VisibilityView" xml:space="preserve">
+    <value>Zelfde als pagina</value>
+  </data>
 </root>

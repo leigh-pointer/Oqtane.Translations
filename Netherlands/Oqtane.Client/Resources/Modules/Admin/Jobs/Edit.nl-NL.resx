@@ -186,4 +186,10 @@
   <data name="NextExecution.Text" xml:space="preserve">
     <value>Volgende uitvoering:</value>
   </data>
+  <data name="Week(s)" xml:space="preserve">
+    <value>Weken)</value>
+  </data>
+  <data name="Once" xml:space="preserve">
+    <value>Eenmaal uitvoeren</value>
+  </data>
 </root>
