@@ -288,9 +288,6 @@
   <data name="Browse" xml:space="preserve">
     <value>Bladeren</value>
   </data>
-  <data name="Appearance.Heading" xml:space="preserve">
-    <value>Uiterlijk</value>
-  </data>
   <data name="Hosting.Heading" xml:space="preserve">
     <value>Hostingmodel</value>
   </data>

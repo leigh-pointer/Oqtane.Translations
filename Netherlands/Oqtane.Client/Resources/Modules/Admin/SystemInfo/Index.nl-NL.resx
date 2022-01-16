@@ -132,9 +132,6 @@
   <data name="ServerPath.HelpText" xml:space="preserve">
     <value>Serverpad</value>
   </data>
-  <data name="ServerTime.HelpText" xml:space="preserve">
-    <value>Server tijd</value>
-  </data>
   <data name="FrameworkVersion.Text" xml:space="preserve">
     <value>Framework-versie:</value>
   </data>
@@ -146,9 +143,6 @@
   </data>
   <data name="ServerPath.Text" xml:space="preserve">
     <value>Serverpad:</value>
-  </data>
-  <data name="ServerTime.Text" xml:space="preserve">
-    <value>Server tijd:</value>
   </data>
   <data name="RestartApplication.Header" xml:space="preserve">
     <value>Applicatie opnieuw starten</value>
@@ -230,5 +224,11 @@
   </data>
   <data name="RestartApplication.Text" xml:space="preserve">
     <value>Applicatie opnieuw starten</value>
+  </data>
+  <data name="ServerTime.HelpText" xml:space="preserve">
+    <value>Serverdatum/tijd (in UTC)</value>
+  </data>
+  <data name="ServerTime.Text" xml:space="preserve">
+    <value>Serverdatum/tijd:</value>
   </data>
 </root>

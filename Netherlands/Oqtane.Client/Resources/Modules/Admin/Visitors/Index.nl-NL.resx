@@ -150,12 +150,6 @@
   <data name="Visitors.Heading" xml:space="preserve">
     <value>Bezoekers</value>
   </data>
-  <data name="VisitorTracking.HelpText" xml:space="preserve">
-    <value>Geef aan of het volgen van bezoekers is ingeschakeld</value>
-  </data>
-  <data name="VisitorTracking.Text" xml:space="preserve">
-    <value>Bezoekers volgen ingeschakeld?</value>
-  </data>
   <data name="Visited" xml:space="preserve">
     <value>Bezocht</value>
   </data>
