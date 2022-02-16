@@ -4,6 +4,6 @@
 | ------------------- | ----------------------------------- | ------------------- |
 | Language            | Netherlands (Nederlands)
 | Culture             | Nederland (Nederlands)
-| For Oqtane          | 3.0.2 release
-| Last Update         | 2021-Dec-13
+| For Oqtane          | 3.0.3 release
+| Last Update         | 2022-Feb-22
 | Maintained by       | [Leigh Pointer](https://www.studio-elf.ga)
