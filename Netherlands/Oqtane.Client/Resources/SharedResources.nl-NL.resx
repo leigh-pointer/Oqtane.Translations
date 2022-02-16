@@ -139,7 +139,7 @@
     <value>Verwijderen</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>annuleren</value>
+    <value>Annuleren</value>
   </data>
   <data name="Admin Dashboard" xml:space="preserve">
     <value>Beheerdersdashboard</value>
@@ -214,7 +214,7 @@
     <value>Resetten</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Zoeken</value>
+    <value>Zoekopdracht</value>
   </data>
   <data name="Search.Hint" xml:space="preserve">
     <value>Voer zoekterm in</value>
@@ -250,7 +250,7 @@
     <value>Wachtwoord:</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Sturen</value>
+    <value>Versturen</value>
   </data>
   <data name="Status" xml:space="preserve">
     <value>Toestand</value>
@@ -259,7 +259,7 @@
     <value>Upgrade</value>
   </data>
   <data name="Username" xml:space="preserve">
-    <value>Gebruikersnaam:</value>
+    <value>gebruikersnaam</value>
   </data>
   <data name="Version" xml:space="preserve">
     <value>Versie</value>

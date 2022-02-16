@@ -163,7 +163,7 @@
     <value>Er bestaat al een pagina met pad {0} voor de geselecteerde bovenliggende pagina. Het paginapad moet uniek zijn voor de geselecteerde ouder.</value>
   </data>
   <data name="Message.Required.PageInfo" xml:space="preserve">
-    <value>Je  moet een paginanaam, thema en container opgeven</value>
+    <value>Je moet een paginanaam, thema en container opgeven</value>
   </data>
   <data name="Error.Page.Save" xml:space="preserve">
     <value>Fout bij opslaan van pagina</value>
@@ -175,13 +175,13 @@
     <value>Selecteer de ouder voor de pagina in de sitehiërarchie</value>
   </data>
   <data name="Insert.HelpText" xml:space="preserve">
-    <value>Selecteer de locatie waar je de pagina wil invoegen ten opzichte van andere pagina's</value>
+    <value>Selecteer de locatie waar je de pagina wilt invoegen ten opzichte van andere pagina's</value>
   </data>
   <data name="Navigation.HelpText" xml:space="preserve">
     <value>Selecteer of de pagina deel uitmaakt van de sitenavigatie of verborgen is</value>
   </data>
   <data name="UrlPath.HelpText" xml:space="preserve">
-    <value>Voer optioneel een url-pad in voor deze pagina (bijv. home ). Als je geen url-pad opgeeft, wordt de paginanaam gebruikt.</value>
+    <value>Voer optioneel een url-pad in voor deze pagina (bijv. home ). Als je geen url-pad opgeeft, wordt de paginanaam gebruikt. Als de pagina bedoeld is als hoofdpad, specificeert '/'.</value>
   </data>
   <data name="Redirect.HelpText" xml:space="preserve">
     <value>Voer optioneel een url in waarnaar deze pagina moet doorverwijzen wanneer een gebruiker ernaartoe navigeert</value>
@@ -226,9 +226,15 @@
     <value>Personaliseerbaar?</value>
   </data>
   <data name="Appearance.Name" xml:space="preserve">
-    <value>Uiterlijk</value>
+    <value>Verschijning</value>
   </data>
   <data name="Message.Page.Deleted" xml:space="preserve">
     <value>Er bestaat al een pagina met pad {0} voor de geselecteerde bovenliggende pagina in de Prullenbak. Herstel de pagina of verwijder deze uit de Prullenbak en maak hem opnieuw aan.</value>
+  </data>
+  <data name="Meta.HelpText" xml:space="preserve">
+    <value>Voer optioneel metatags in (in precies de vorm waarin je ze wil opnemen in de pagina-uitvoer).</value>
+  </data>
+  <data name="Meta.Text" xml:space="preserve">
+    <value>Meta:</value>
   </data>
 </root>

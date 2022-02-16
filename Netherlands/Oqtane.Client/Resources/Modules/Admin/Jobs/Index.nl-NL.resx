@@ -184,7 +184,7 @@
     <value>Het proces dat verantwoordelijk is voor het uitvoeren van deze taak is gestart. De volgende uitvoering is gebaseerd op de planningscriteria voor de taak.</value>
   </data>
   <data name="Message.Job.Stop" xml:space="preserve">
-    <value>Het proces dat verantwoordelijk is voor het uitvoeren van deze taak is gestopt. Om het proces opnieuw te starten, moet u de Start-knop gebruiken of de toepassing opnieuw starten.</value>
+    <value>Het proces dat verantwoordelijk is voor het uitvoeren van deze taak is gestopt. Om het proces opnieuw te starten, moet je de Start-knop gebruiken of de toepassing opnieuw starten.</value>
   </data>
   <data name="Week" xml:space="preserve">
     <value>Weken</value>

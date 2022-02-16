@@ -120,6 +120,12 @@
   <data name="Url" xml:space="preserve">
     <value>URL</value>
   </data>
+  <data name="Visited" xml:space="preserve">
+    <value>bezocht</value>
+  </data>
+  <data name="Visits" xml:space="preserve">
+    <value>bezoeken</value>
+  </data>
   <data name="AllVisitors" xml:space="preserve">
     <value>Alle bezoekers</value>
   </data>
@@ -150,11 +156,11 @@
   <data name="Visitors.Heading" xml:space="preserve">
     <value>Bezoekers</value>
   </data>
-  <data name="Visited" xml:space="preserve">
-    <value>Bezocht</value>
+  <data name="Tracking.HelpText" xml:space="preserve">
+    <value>Geef aan of het volgen van bezoekers is ingeschakeld</value>
   </data>
-  <data name="Visits" xml:space="preserve">
-    <value>Bezoeken</value>
+  <data name="Tracking.Text" xml:space="preserve">
+    <value>Volgen ingeschakeld?</value>
   </data>
   <data name="IP" xml:space="preserve">
     <value>IP</value>
@@ -165,17 +171,11 @@
   <data name="Created" xml:space="preserve">
     <value>Gemaakt</value>
   </data>
-  <data name="Tracking.HelpText" xml:space="preserve">
-    <value>Geef aan of het volgen van bezoekers is ingeschakeld</value>
-  </data>
-  <data name="Tracking.Text" xml:space="preserve">
-    <value>Volgen ingeschakeld?</value>
-  </data>
   <data name="Details.Text" xml:space="preserve">
     <value>Details</value>
   </data>
   <data name="Filter.HelpText" xml:space="preserve">
-    <value>Door komma's gescheiden lijst van termen die kunnen voorkomen in IP-adressen, user agents of talen die bezoekers identificeren die niet moeten worden gevolgd (bijv. bots)</value>
+    <value>Door komma's gescheiden lijst van termen die kunnen voorkomen in IP-adressen, user agents of talen die bezoekers identificeren die niet moeten worden gevolgd</value>
   </data>
   <data name="Filter.Text" xml:space="preserve">
     <value>Filter:</value>
@@ -185,5 +185,11 @@
   </data>
   <data name="Retention.Text" xml:space="preserve">
     <value>Bewaartermijn (dagen):</value>
+  </data>
+  <data name="Correlation.HelpText" xml:space="preserve">
+    <value>Geef aan of nieuwe bezoekers van deze site gecorreleerd moeten worden op basis van hun IP-adres</value>
+  </data>
+  <data name="Correlation.Text" xml:space="preserve">
+    <value>Bezoekers correleren?</value>
   </data>
 </root>

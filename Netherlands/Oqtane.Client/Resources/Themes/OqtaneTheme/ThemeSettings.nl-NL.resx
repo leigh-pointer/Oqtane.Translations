@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Footer.HelpText" xml:space="preserve">
-    <value>Geef aan of een Footer-venster altijd op een vaste locatie onder aan de pagina moet worden weergegeven.!</value>
+    <value>Geef aan of een voettekstvenster altijd op een vaste locatie onder aan de pagina moet worden weergegeven.</value>
   </data>
   <data name="Footer.Text" xml:space="preserve">
-    <value>Vaste voettekst weergeven?!</value>
+    <value>Vaste voettekst weergeven?</value>
   </data>
   <data name="Login.HelpText" xml:space="preserve">
-    <value>Geef aan of een Login-optie moet worden weergegeven. Merk op dat deze optie niet verhindert dat de login-pagina toegankelijk is via een directe url.!</value>
+    <value>Geef aan of een Login-optie moet worden weergegeven. Merk op dat deze optie niet verhindert dat de login-pagina toegankelijk is via een directe url.</value>
   </data>
   <data name="Login.Text" xml:space="preserve">
-    <value>Inloggen</value>
+    <value>Inloggen tonen?</value>
   </data>
   <data name="Page" xml:space="preserve">
     <value>Bladzijde</value>
@@ -139,6 +139,6 @@
     <value>Toon inschrijven?</value>
   </data>
   <data name="Site" xml:space="preserve">
-    <value>site</value>
+    <value>website</value>
   </data>
 </root>

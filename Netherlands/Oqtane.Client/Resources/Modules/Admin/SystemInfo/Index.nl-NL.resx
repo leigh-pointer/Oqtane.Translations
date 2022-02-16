@@ -178,7 +178,7 @@
     <value>Loggingsniveau:</value>
   </data>
   <data name="LoggingLevel.HelpText" xml:space="preserve">
-    <value>Het minimale registratieniveau voor het gebeurtenislogboek. Deze optie kan worden gebruikt om het volume van items te regelen die zijn opgeslagen in uw gebeurtenislogboek.</value>
+    <value>Het minimale registratieniveau voor het gebeurtenislogboek. Deze optie kan worden gebruikt om het volume van items te regelen die zijn opgeslagen in jou gebeurtenislogboek.</value>
   </data>
   <data name="Trace" xml:space="preserve">
     <value>Tracé</value>

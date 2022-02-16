@@ -151,7 +151,7 @@
     <value>Fout bij opslaan van site</value>
   </data>
   <data name="Info.Smtp.SaveSettings" xml:space="preserve">
-    <value>SMTP-instellingen zijn opgeslagen en er is een bericht verzonden naar het e-mailadres dat aan uw gebruikersaccount is gekoppeld... Een paar minuten wachten op levering. Als u de e-mail niet ontvangt, controleer dan de meldingstaak in geplande taken voor eventuele logboekdetails.</value>
+    <value>SMTP-instellingen zijn opgeslagen en er is een bericht verzonden naar het e-mailadres dat aan jou gebruikersaccount is gekoppeld... Een paar minuten wachten op levering. Als je de e-mail niet ontvangt, controleer dan de meldingstaak in geplande taken voor eventuele logboekdetails.</value>
   </data>
   <data name="Error.Smtp.TestConfig" xml:space="preserve">
     <value>Fout bij testen van SMTP-configuratie</value>
@@ -187,7 +187,7 @@
     <value>Voer de hostnaam van de SMTP-server in</value>
   </data>
   <data name="Port.HelpText" xml:space="preserve">
-    <value>Voer het poortnummer voor de SMTP-server in. Let op: dit veld is verplicht als u een hostnaam opgeeft.</value>
+    <value>Voer het poortnummer voor de SMTP-server in. Let op: dit veld is verplicht als je een hostnaam opgeeft.</value>
   </data>
   <data name="UseSsl.HelpText" xml:space="preserve">
     <value>Specificeer of SSL vereist is voor jouw SMTP-server</value>

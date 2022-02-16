@@ -133,7 +133,7 @@
     <value>Fout bij downloaden van thema</value>
   </data>
   <data name="Theme.HelpText" xml:space="preserve">
-    <value>Upload een of meerdere themapakketten. Zodra ze zijn geüpload, klikt u op Installeren om de installatie te voltooien.</value>
+    <value>Upload een of meerdere themapakketten. Zodra ze zijn geüpload, klikt je op Installeren om de installatie te voltooien.</value>
   </data>
   <data name="Search.NoResults" xml:space="preserve">
     <value>Geen thema's komen overeen met de opgegeven criteria of pakketservice is uitgeschakeld</value>

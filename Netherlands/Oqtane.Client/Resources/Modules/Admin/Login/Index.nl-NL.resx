@@ -124,7 +124,7 @@
     <value>Wachtwoord vergeten</value>
   </data>
   <data name="Success.Account.Verified" xml:space="preserve">
-    <value>Gebruikersaccount succesvol geverifieerd. Je kan nu inloggen met jouw gebruikersnaam en wachtwoord hieronder.</value>
+    <value>Gebruikersaccount succesvol geverifieerd. Je kan nu inloggen met jou gebruikersnaam en wachtwoord hieronder.</value>
   </data>
   <data name="Message.Account.NotVerfied" xml:space="preserve">
     <value>Gebruikersaccount kan niet worden geverifieerd. Neem contact op met jouw beheerder voor verdere instructies.</value>

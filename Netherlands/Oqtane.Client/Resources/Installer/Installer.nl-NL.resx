@@ -145,7 +145,7 @@
     <value>Bevestigen:</value>
   </data>
   <data name="DatabaseType.HelpText" xml:space="preserve">
-    <value>Selecteer het type database dat u wilt gebruiken</value>
+    <value>Selecteer het type database dat je wil gebruiken</value>
   </data>
   <data name="Email.HelpText" xml:space="preserve">
     <value>Geef het e-mailadres op voor het hostgebruikersaccount</value>

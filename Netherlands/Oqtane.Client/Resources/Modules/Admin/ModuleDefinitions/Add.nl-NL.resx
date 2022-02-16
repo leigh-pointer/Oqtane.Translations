@@ -133,7 +133,7 @@
     <value>Fout bij downloaden van module</value>
   </data>
   <data name="Module.HelpText" xml:space="preserve">
-    <value>Upload een of meerdere modulepakketten. Zodra ze zijn geüpload, klikt u op Installeren om de installatie te voltooien.</value>
+    <value>Upload een of meerdere modulepakketten. Zodra ze zijn geüpload, klikt je op Installeren om de installatie te voltooien.</value>
   </data>
   <data name="Search.NoResults" xml:space="preserve">
     <value>Geen enkele module komt overeen met de opgegeven criteria of de pakketservice is uitgeschakeld</value>
