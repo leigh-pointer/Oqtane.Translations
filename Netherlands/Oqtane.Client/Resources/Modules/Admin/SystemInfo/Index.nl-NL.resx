@@ -129,9 +129,6 @@
   <data name="OSVersion.HelpText" xml:space="preserve">
     <value>Besturingssysteemversie</value>
   </data>
-  <data name="ServerPath.HelpText" xml:space="preserve">
-    <value>Serverpad</value>
-  </data>
   <data name="FrameworkVersion.Text" xml:space="preserve">
     <value>Framework-versie:</value>
   </data>
@@ -140,9 +137,6 @@
   </data>
   <data name="OSVersion.Text" xml:space="preserve">
     <value>OS-versie:</value>
-  </data>
-  <data name="ServerPath.Text" xml:space="preserve">
-    <value>Serverpad:</value>
   </data>
   <data name="RestartApplication.Header" xml:space="preserve">
     <value>Applicatie opnieuw starten</value>
@@ -230,5 +224,50 @@
   </data>
   <data name="ServerTime.Text" xml:space="preserve">
     <value>Serverdatum/tijd:</value>
+  </data>
+  <data name="ContentRootPath.HelpText" xml:space="preserve">
+    <value>Server root pad</value>
+  </data>
+  <data name="ContentRootPath.Text" xml:space="preserve">
+    <value>Wortelpad:</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Geen</value>
+  </data>
+  <data name="NotificationLevel.HelpText" xml:space="preserve">
+    <value>Het minimale registratieniveau waarvoor meldingen naar hostgebruikers moeten worden verzonden.</value>
+  </data>
+  <data name="NotificationLevel.Text" xml:space="preserve">
+    <value>Meldingsniveau:</value>
+  </data>
+  <data name="IPAddress.HelpText" xml:space="preserve">
+    <value>Server IP adres</value>
+  </data>
+  <data name="IPAddress.Text" xml:space="preserve">
+    <value>IP adres:</value>
+  </data>
+  <data name="MachineName.HelpText" xml:space="preserve">
+    <value>Naam servercomputer</value>
+  </data>
+  <data name="MachineName.Text" xml:space="preserve">
+    <value>Machine naam:</value>
+  </data>
+  <data name="TickCount.HelpText" xml:space="preserve">
+    <value>Hoeveelheid tijd dat de service beschikbaar en operationeel is geweest</value>
+  </data>
+  <data name="TickCount.Text" xml:space="preserve">
+    <value>Service-uptime:</value>
+  </data>
+  <data name="WebRootPath.HelpText" xml:space="preserve">
+    <value>Hoofdpad serverweb</value>
+  </data>
+  <data name="WebRootPath.Text" xml:space="preserve">
+    <value>Webpad:</value>
+  </data>
+  <data name="WorkingSet.HelpText" xml:space="preserve">
+    <value>Geheugentoewijzing van service (in MB)</value>
+  </data>
+  <data name="WorkingSet.Text" xml:space="preserve">
+    <value>Geheugentoewijzing:</value>
   </data>
 </root>

@@ -324,4 +324,10 @@
   <data name="Aliases.Heading" xml:space="preserve">
     <value>aliassen</value>
   </data>
+  <data name="Hide" xml:space="preserve">
+    <value>Verbergen</value>
+  </data>
+  <data name="Show" xml:space="preserve">
+    <value>Laten zien</value>
+  </data>
 </root>

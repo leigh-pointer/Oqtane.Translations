@@ -117,9 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="RememberMe" xml:space="preserve">
-    <value>Onthoud me?</value>
-  </data>
   <data name="ForgotPassword" xml:space="preserve">
     <value>Wachtwoord vergeten</value>
   </data>
@@ -128,12 +125,6 @@
   </data>
   <data name="Message.Account.NotVerfied" xml:space="preserve">
     <value>Gebruikersaccount kan niet worden geverifieerd. Neem contact op met jouw beheerder voor verdere instructies.</value>
-  </data>
-  <data name="Error.Login.Fail" xml:space="preserve">
-    <value>Aanmelden mislukt. Houd er rekening mee dat wachtwoorden hoofdlettergevoelig zijn en dat gebruikersaccounts verificatie vereisen wanneer ze in eerste instantie worden gemaakt, zodat je wellicht jouw e-mail wil controleren.</value>
-  </data>
-  <data name="Message.Required.UserInfo" xml:space="preserve">
-    <value>Geef jouw gebruikersnaam en wachtwoord op</value>
   </data>
   <data name="Info.SignedIn" xml:space="preserve">
     <value>Je bent al ingelogd</value>
@@ -146,5 +137,68 @@
   </data>
   <data name="Message.UserDoesNotExist" xml:space="preserve">
     <value>Gebruiker bestaat niet</value>
+  </data>
+  <data name="Error.Login.Fail" xml:space="preserve">
+    <value>Aanmelden mislukt. Houd er rekening mee dat wachtwoorden hoofdlettergevoelig zijn. Als je meerdere keren zonder succes heeft geprobeerd in te loggen, word jou account voor een bepaalde tijd geblokkeerd. Houd er rekening mee dat gebruikersaccounts verificatie vereisen wanneer ze voor het eerst worden gemaakt, dus misschien wil je jou e-mail controleren als je een nieuwe gebruiker bent.</value>
+  </data>
+  <data name="Message.Required.UserInfo" xml:space="preserve">
+    <value>Vul a.u.b. alle vereiste velden in</value>
+  </data>
+  <data name="Code.HelpText" xml:space="preserve">
+    <value>Voer de beveiligde verificatiecode in die je per e-mail is toegestuurd.</value>
+  </data>
+  <data name="Code.Placeholder" xml:space="preserve">
+    <value>Verificatie code</value>
+  </data>
+  <data name="Code.Text" xml:space="preserve">
+    <value>Verificatie code:</value>
+  </data>
+  <data name="Error.TwoFactor.Fail" xml:space="preserve">
+    <value>Verificatie mislukt. Zorg ervoor dat je de code exact invoert in het formulier in jou e-mail. Als u een nieuwe verificatiecode wilt aanvragen, selecteert je de optie Annuleren en logt je opnieuw in.</value>
+  </data>
+  <data name="Message.TwoFactor" xml:space="preserve">
+    <value>Er is een beveiligde verificatiecode naar jou e-mailadres verzonden. Vul a.u.b. de code in die je heeft ontvangen. Als je de code niet ontvangt of als je geen toegang meer heeft tot jou e-mail, neem dan contact op met jou beheerder.</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Voer het wachtwoord in dat verband houdt met jou account. Onthoud dat wachtwoorden hoofdlettergevoelig zijn. Als u meerdere keren zonder succes probeert in te loggen op jou account, word je voor een bepaalde periode buitengesloten.</value>
+  </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>Wachtwoord</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="Remember.HelpText" xml:space="preserve">
+    <value>Geef aan of je de volgende keer dat je deze site bezoekt automatisch weer wilt inloggen</value>
+  </data>
+  <data name="Remember.Text" xml:space="preserve">
+    <value>Onthoud mij?</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Voer de gebruikersnaam in die verband houdt met jou account</value>
+  </data>
+  <data name="Username.Placeholder" xml:space="preserve">
+    <value>gebruikersnaam</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
+  </data>
+  <data name="HidePassword" xml:space="preserve">
+    <value>Verbergen</value>
+  </data>
+  <data name="ShowPassword" xml:space="preserve">
+    <value>Laten zien</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Gebruiken</value>
+  </data>
+  <data name="Error.LoadLogin" xml:space="preserve">
+    <value>Fout bij laden van aanmelding</value>
+  </data>
+  <data name="Error.Login" xml:space="preserve">
+    <value>Fout bij het uitvoeren van aanmelding</value>
+  </data>
+  <data name="Error.ResetPassword" xml:space="preserve">
+    <value>Fout bij opnieuw instellen van wachtwoord</value>
   </data>
 </root>

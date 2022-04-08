@@ -127,10 +127,10 @@
     <value>Verwijder gebruiker</value>
   </data>
   <data name="AllowRegistration.HelpText" xml:space="preserve">
-    <value>Wil je dat gebruikers zich kunnen registreren voor een account op de site?</value>
+    <value>Wil je dat anonieme bezoekers zich kunnen registreren voor een account op de site?</value>
   </data>
   <data name="AllowRegistration.Text" xml:space="preserve">
-    <value>Gebruikersregistratie toestaan?</value>
+    <value>Registratie toestaan?</value>
   </data>
   <data name="Error.SaveSiteSettings" xml:space="preserve">
     <value>Fout bij opslaan van instellingen</value>
@@ -152,5 +152,218 @@
   </data>
   <data name="Roles.Text" xml:space="preserve">
     <value>Rollen</value>
+  </data>
+  <data name="LockoutDuration.HelpText" xml:space="preserve">
+    <value>Het aantal minuten dat een gebruiker moet worden buitengesloten</value>
+  </data>
+  <data name="LockoutDuration.Text" xml:space="preserve">
+    <value>Uitsluitingsduur:</value>
+  </data>
+  <data name="MaximumFailures.HelpText" xml:space="preserve">
+    <value>Het maximum aantal aanmeldingspogingen voordat een gebruiker wordt buitengesloten</value>
+  </data>
+  <data name="MaximumFailures.Text" xml:space="preserve">
+    <value>Maximale mislukkingen:</value>
+  </data>
+  <data name="RequireDigit.HelpText" xml:space="preserve">
+    <value>Geef aan of wachtwoorden een cijfer moeten bevatten</value>
+  </data>
+  <data name="RequireDigit.Text" xml:space="preserve">
+    <value>Cijfer nodig?</value>
+  </data>
+  <data name="RequiredLength.HelpText" xml:space="preserve">
+    <value>De minimale lengte voor een wachtwoord</value>
+  </data>
+  <data name="RequiredLength.Text" xml:space="preserve">
+    <value>Minimale lengte:</value>
+  </data>
+  <data name="RequireLower.HelpText" xml:space="preserve">
+    <value>Geef aan of wachtwoorden een kleine letter moeten bevatten</value>
+  </data>
+  <data name="RequireLower.Text" xml:space="preserve">
+    <value>Kleine letters nodig?</value>
+  </data>
+  <data name="RequirePunctuation.HelpText" xml:space="preserve">
+    <value>Geef aan of wachtwoorden een niet-alfanumeriek teken moeten bevatten (bijv. interpunctie)</value>
+  </data>
+  <data name="RequirePunctuation.Text" xml:space="preserve">
+    <value>Interpunctie nodig?</value>
+  </data>
+  <data name="RequireUpper.HelpText" xml:space="preserve">
+    <value>Geef aan of wachtwoorden een hoofdletter moeten bevatten</value>
+  </data>
+  <data name="RequireUpper.Text" xml:space="preserve">
+    <value>Hoofdletters nodig?</value>
+  </data>
+  <data name="Success.UpdateConfig.Restart" xml:space="preserve">
+    <value>Configuratie bijgewerkt. Selecteer Applicatie opnieuw starten om deze wijzigingen te activeren.</value>
+  </data>
+  <data name="UniqueCharacters.HelpText" xml:space="preserve">
+    <value>Het minimum aantal unieke tekens dat een wachtwoord moet bevatten</value>
+  </data>
+  <data name="UniqueCharacters.Text" xml:space="preserve">
+    <value>Unieke karakters:</value>
+  </data>
+  <data name="AllowSiteLogin.HelpText" xml:space="preserve">
+    <value>Wilt u gebruikers toestaan zich aan te melden met een gebruikersnaam en wachtwoord die lokaal op deze site worden beheerd? Houd er rekening mee dat je deze optie alleen moet uitschakelen als je al met succes een externe inlogprovider heeft geconfigureerd, anders kun je jezelf buitensluiten van de site.</value>
+  </data>
+  <data name="AllowSiteLogin.Text" xml:space="preserve">
+    <value>Sta Inloggen toe?</value>
+  </data>
+  <data name="Authority.HelpText" xml:space="preserve">
+    <value>De autoriteit-url of uitgever-URL die is gekoppeld aan de OpenID Connect-provider</value>
+  </data>
+  <data name="Authority.Text" xml:space="preserve">
+    <value>Autoriteit:</value>
+  </data>
+  <data name="AuthorizationUrl.HelpText" xml:space="preserve">
+    <value>Het eindpunt voor het verkrijgen van een autorisatiecode</value>
+  </data>
+  <data name="AuthorizationUrl.Text" xml:space="preserve">
+    <value>Autorisatie-URL:</value>
+  </data>
+  <data name="ClientID.HelpText" xml:space="preserve">
+    <value>De klant-ID van de provider</value>
+  </data>
+  <data name="ClientID.Text" xml:space="preserve">
+    <value>Klant identificatie:</value>
+  </data>
+  <data name="ClientSecret.HelpText" xml:space="preserve">
+    <value>Het klantgeheim van de provider</value>
+  </data>
+  <data name="ClientSecret.Text" xml:space="preserve">
+    <value>Klantgeheim:</value>
+  </data>
+  <data name="CreateUsers.HelpText" xml:space="preserve">
+    <value>Wil je dat nieuwe gebruikers automatisch worden aangemaakt? Als je deze optie uitschakelt, moeten gebruikers al geregistreerd zijn op de site om in te loggen met hun externe login.</value>
+  </data>
+  <data name="CreateUsers.Text" xml:space="preserve">
+    <value>Nieuwe gebruikers aanmaken?</value>
+  </data>
+  <data name="DomainFilter.HelpText" xml:space="preserve">
+    <value>Geef eventuele filtercriteria voor e-maildomeinen op (gescheiden door komma's). Uit te sluiten domeinen moeten worden voorafgegaan door een uitroepteken (!). 'microsoft.com,!hotmail.com' omvat bijvoorbeeld e-mailadressen van microsoft.com, maar geen e-mailadressen van hotmail.com.</value>
+  </data>
+  <data name="DomainFilter.Text" xml:space="preserve">
+    <value>Domeinfilter:</value>
+  </data>
+  <data name="EmailClaimType.HelpText" xml:space="preserve">
+    <value>De typenaam voor de e-mailadresclaim verstrekt door de provider</value>
+  </data>
+  <data name="EmailClaimType.Text" xml:space="preserve">
+    <value>Type e-mailclaim:</value>
+  </data>
+  <data name="ExternalLoginSettings.Heading" xml:space="preserve">
+    <value>Externe aanmeldingsinstellingen</value>
+  </data>
+  <data name="LockoutSettings.Heading" xml:space="preserve">
+    <value>Instellingen voor vergrendeling</value>
+  </data>
+  <data name="MetadataUrl.HelpText" xml:space="preserve">
+    <value>Het detectie-eindpunt voor het verkrijgen van metagegevens voor deze provider. Geef alleen op als de OpenID Connect-provider niet de standaardbenadering gebruikt (bijv. /.well-known/openid-configuration)</value>
+  </data>
+  <data name="MetadataUrl.Text" xml:space="preserve">
+    <value>Metadata-URL:</value>
+  </data>
+  <data name="PasswordSettings.Heading" xml:space="preserve">
+    <value>Wachtwoordinstellingen</value>
+  </data>
+  <data name="PKCE.HelpText" xml:space="preserve">
+    <value>Geef aan of de provider Proof Key for Code Exchange (PKCE) ondersteunt</value>
+  </data>
+  <data name="PKCE.Text" xml:space="preserve">
+    <value>PKCE gebruiken?</value>
+  </data>
+  <data name="ProviderName.HelpText" xml:space="preserve">
+    <value>De naam van de externe inlogprovider die wordt weergegeven op de inlogpagina</value>
+  </data>
+  <data name="ProviderName.Text" xml:space="preserve">
+    <value>Provider naam:</value>
+  </data>
+  <data name="ProviderType.HelpText" xml:space="preserve">
+    <value>Selecteer het type externe inlogprovider</value>
+  </data>
+  <data name="ProviderType.Text" xml:space="preserve">
+    <value>Aanbiedertype:</value>
+  </data>
+  <data name="RedirectUrl.HelpText" xml:space="preserve">
+    <value>De omleidings-url (of terugbel-url) die normaal gesproken moet worden geregistreerd bij de provider</value>
+  </data>
+  <data name="RedirectUrl.Text" xml:space="preserve">
+    <value>Omleidings-URL:</value>
+  </data>
+  <data name="Scopes.HelpText" xml:space="preserve">
+    <value>Een lijst met Scopes die moeten worden aangevraagd bij de provider (gescheiden door komma's). Als er geen zijn gespecificeerd, worden standaard standaard Scopes gebruikt.</value>
+  </data>
+  <data name="Scopes.Text" xml:space="preserve">
+    <value>Bereik:</value>
+  </data>
+  <data name="TokenUrl.HelpText" xml:space="preserve">
+    <value>Het eindpunt voor het verkrijgen van een authenticatietoken</value>
+  </data>
+  <data name="TokenUrl.Text" xml:space="preserve">
+    <value>Token-URL:</value>
+  </data>
+  <data name="UserInfoUrl.HelpText" xml:space="preserve">
+    <value>Het eindpunt voor het verkrijgen van gebruikersinformatie. Dit moet een API of pagina-URL zijn die het e-mailadres van de gebruiker bevat.</value>
+  </data>
+  <data name="UserInfoUrl.Text" xml:space="preserve">
+    <value>Gebruikersinfo-url:</value>
+  </data>
+  <data name="Audience.HelpText" xml:space="preserve">
+    <value>Geef optioneel het publiek voor het token op</value>
+  </data>
+  <data name="Audience.Text" xml:space="preserve">
+    <value>Publiek:</value>
+  </data>
+  <data name="UserSettings.Heading" xml:space="preserve">
+    <value>Gebruikersinstellingen</value>
+  </data>
+  <data name="CookieType.HelpText" xml:space="preserve">
+    <value>Cookies worden doorgaans per domein beheerd. Je kunt er echter ook voor kiezen om voor elke site aparte cookies te gebruiken (deze optie is alleen van toepassing op microsites).</value>
+  </data>
+  <data name="CookieType.Text" xml:space="preserve">
+    <value>Type login-cookie:</value>
+  </data>
+  <data name="CreateToken" xml:space="preserve">
+    <value>Token maken</value>
+  </data>
+  <data name="Issuer.HelpText" xml:space="preserve">
+    <value>Geef optioneel de uitgever van het token op</value>
+  </data>
+  <data name="Issuer.Text" xml:space="preserve">
+    <value>Uitgever:</value>
+  </data>
+  <data name="Lifetime.HelpText" xml:space="preserve">
+    <value>Het aantal minuten waarvoor een token geldig moet zijn</value>
+  </data>
+  <data name="Lifetime.Text" xml:space="preserve">
+    <value>Levenslang:</value>
+  </data>
+  <data name="Secret.HelpText" xml:space="preserve">
+    <value>Als je API-toegang wilt verlenen, geef dan een geheim op dat zal worden gebruikt om uw tokens te versleutelen. Het geheim moet 16 tekens of meer bevatten om een optimale beveiliging te garanderen. Houd er rekening mee dat als je dit geheim wijzigt, alle bestaande tokens ongeldig worden en opnieuw moeten worden gegenereerd.</value>
+  </data>
+  <data name="Secret.Text" xml:space="preserve">
+    <value>Geheim:</value>
+  </data>
+  <data name="Token.HelpText" xml:space="preserve">
+    <value>Selecteer de knop Create Token om een toegangstoken met een lange levensduur te genereren (geldig voor 1 jaar). Zorg ervoor dat je deze token op een veilige plaats bewaart, want je zul er in de toekomst geen toegang toe hebben.</value>
+  </data>
+  <data name="Token.Text" xml:space="preserve">
+    <value>Munt:</value>
+  </data>
+  <data name="TokenSettings.Heading" xml:space="preserve">
+    <value>Tokeninstellingen</value>
+  </data>
+  <data name="TwoFactor.HelpText" xml:space="preserve">
+    <value>Wilt u gebruikers toestaan om tweefactorauthenticatie te gebruiken? Houd er rekening mee dat de meldingstaak in Geplande taken moet zijn ingeschakeld en dat uw SMTP-opties moeten worden geconfigureerd in Site-instellingen om deze optie correct te laten werken.</value>
+  </data>
+  <data name="TwoFactor.Text" xml:space="preserve">
+    <value>Twee factoren toestaan?</value>
+  </data>
+  <data name="Hide" xml:space="preserve">
+    <value>Verbergen</value>
+  </data>
+  <data name="Show" xml:space="preserve">
+    <value>Laten zien</value>
   </data>
 </root>
