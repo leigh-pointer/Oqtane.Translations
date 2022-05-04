@@ -321,4 +321,10 @@
   <data name="Settings" xml:space="preserve">
     <value>Instellingen</value>
   </data>
+  <data name="HidePassword" xml:space="preserve">
+    <value>Verbergen</value>
+  </data>
+  <data name="ShowPassword" xml:space="preserve">
+    <value>Tonen</value>
+  </data>
 </root>

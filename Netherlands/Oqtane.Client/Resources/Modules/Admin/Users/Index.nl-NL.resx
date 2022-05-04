@@ -366,4 +366,34 @@
   <data name="Show" xml:space="preserve">
     <value>Laten zien</value>
   </data>
+  <data name="CookieName.HelpText" xml:space="preserve">
+    <value>Je kunt ervoor kiezen om voor elke site een aangepaste authenticatiecookienaam te gebruiken. Houd er echter rekening mee dat als je een authenticatiecookie wilt delen tussen sites op hetzelfde domein, ze een consistente cookienaam moeten gebruiken. Houd er ook rekening mee dat als je de naam van de authenticatiecookie wijzigt, alle huidige gebruikers worden uitgelogd.</value>
+  </data>
+  <data name="CookieName.Text" xml:space="preserve">
+    <value>Cookienaam:</value>
+  </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>Gehandicapt</value>
+  </data>
+  <data name="Optional" xml:space="preserve">
+    <value>Optioneel</value>
+  </data>
+  <data name="Required" xml:space="preserve">
+    <value>Vereist</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>Gemaakt op</value>
+  </data>
+  <data name="LastIPAddress" xml:space="preserve">
+    <value>Laatste IP-adres</value>
+  </data>
+  <data name="LastLoginOn" xml:space="preserve">
+    <value>Laatste aanmelding</value>
+  </data>
+  <data name="IdentifierClaimType.HelpText" xml:space="preserve">
+    <value>De naam van de claim voor de unieke gebruikers-ID die door de provider is verstrekt</value>
+  </data>
+  <data name="IdentifierClaimType.Text" xml:space="preserve">
+    <value>Identificatieclaim:</value>
+  </data>
 </root>
