@@ -186,4 +186,16 @@
   <data name="Password.Placeholder" xml:space="preserve">
     <value>Wachtwoord</value>
   </data>
+  <data name="LastIPAddress.HelpText" xml:space="preserve">
+    <value>Het IP-adres van de gebruiker geregistreerd tijdens de laatste login</value>
+  </data>
+  <data name="LastIPAddress.Text" xml:space="preserve">
+    <value>Laatste IP-adres:</value>
+  </data>
+  <data name="LastLogin.HelpText" xml:space="preserve">
+    <value>De datum en tijd waarop de gebruiker zich voor het laatst heeft aangemeld</value>
+  </data>
+  <data name="LastLogin.Text" xml:space="preserve">
+    <value>Laatste aanmelding:</value>
+  </data>
 </root>

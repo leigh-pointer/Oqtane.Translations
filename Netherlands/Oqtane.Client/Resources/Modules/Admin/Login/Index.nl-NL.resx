@@ -123,9 +123,6 @@
   <data name="Success.Account.Verified" xml:space="preserve">
     <value>Gebruikersaccount succesvol geverifieerd. Je kan nu inloggen met jou gebruikersnaam en wachtwoord hieronder.</value>
   </data>
-  <data name="Message.Account.NotVerfied" xml:space="preserve">
-    <value>Gebruikersaccount kan niet worden geverifieerd. Neem contact op met jouw beheerder voor verdere instructies.</value>
-  </data>
   <data name="Info.SignedIn" xml:space="preserve">
     <value>Je bent al ingelogd</value>
   </data>
@@ -182,12 +179,6 @@
   </data>
   <data name="Username.Text" xml:space="preserve">
     <value>Gebruikersnaam:</value>
-  </data>
-  <data name="HidePassword" xml:space="preserve">
-    <value>Verbergen</value>
-  </data>
-  <data name="ShowPassword" xml:space="preserve">
-    <value>Laten zien</value>
   </data>
   <data name="Use" xml:space="preserve">
     <value>Gebruiken</value>

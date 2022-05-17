@@ -318,12 +318,6 @@
   <data name="UserSettings.Heading" xml:space="preserve">
     <value>Gebruikersinstellingen</value>
   </data>
-  <data name="CookieType.HelpText" xml:space="preserve">
-    <value>Cookies worden doorgaans per domein beheerd. Je kunt er echter ook voor kiezen om voor elke site aparte cookies te gebruiken (deze optie is alleen van toepassing op microsites).</value>
-  </data>
-  <data name="CookieType.Text" xml:space="preserve">
-    <value>Type login-cookie:</value>
-  </data>
   <data name="CreateToken" xml:space="preserve">
     <value>Token maken</value>
   </data>
@@ -349,7 +343,7 @@
     <value>Selecteer de knop Create Token om een toegangstoken met een lange levensduur te genereren (geldig voor 1 jaar). Zorg ervoor dat je deze token op een veilige plaats bewaart, want je zul er in de toekomst geen toegang toe hebben.</value>
   </data>
   <data name="Token.Text" xml:space="preserve">
-    <value>Munt:</value>
+    <value>Token:</value>
   </data>
   <data name="TokenSettings.Heading" xml:space="preserve">
     <value>Tokeninstellingen</value>
@@ -359,12 +353,6 @@
   </data>
   <data name="TwoFactor.Text" xml:space="preserve">
     <value>Twee factoren toestaan?</value>
-  </data>
-  <data name="Hide" xml:space="preserve">
-    <value>Verbergen</value>
-  </data>
-  <data name="Show" xml:space="preserve">
-    <value>Laten zien</value>
   </data>
   <data name="CookieName.HelpText" xml:space="preserve">
     <value>Je kunt ervoor kiezen om voor elke site een aangepaste authenticatiecookienaam te gebruiken. Houd er echter rekening mee dat als je een authenticatiecookie wilt delen tussen sites op hetzelfde domein, ze een consistente cookienaam moeten gebruiken. Houd er ook rekening mee dat als je de naam van de authenticatiecookie wijzigt, alle huidige gebruikers worden uitgelogd.</value>
@@ -381,12 +369,6 @@
   <data name="Required" xml:space="preserve">
     <value>Vereist</value>
   </data>
-  <data name="CreatedOn" xml:space="preserve">
-    <value>Gemaakt op</value>
-  </data>
-  <data name="LastIPAddress" xml:space="preserve">
-    <value>Laatste IP-adres</value>
-  </data>
   <data name="LastLoginOn" xml:space="preserve">
     <value>Laatste aanmelding</value>
   </data>
@@ -395,5 +377,11 @@
   </data>
   <data name="IdentifierClaimType.Text" xml:space="preserve">
     <value>Identificatieclaim:</value>
+  </data>
+  <data name="Parameters.HelpText" xml:space="preserve">
+    <value>Geef eventueel aanvullende parameters op als naam/waarde-paren om naar de provider te verzenden (gescheiden door komma's als er meerdere zijn).</value>
+  </data>
+  <data name="Parameters.Text" xml:space="preserve">
+    <value>Parameters:</value>
   </data>
 </root>
