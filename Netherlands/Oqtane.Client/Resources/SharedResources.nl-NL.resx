@@ -327,4 +327,13 @@
   <data name="ShowPassword" xml:space="preserve">
     <value>Tonen</value>
   </data>
+  <data name="Visitor Management" xml:space="preserve">
+    <value>Bezoekersbeheer</value>
+  </data>
+  <data name="Url Mappings" xml:space="preserve">
+    <value>URL-toewijzingen</value>
+  </data>
+  <data name="PageOfPages" xml:space="preserve">
+    <value>Pagina {0} van {1}</value>
+  </data>
 </root>

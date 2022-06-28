@@ -141,4 +141,7 @@
   <data name="Error.File.Delete" xml:space="preserve">
     <value>Fout bij verwijderen van bestand</value>
   </data>
+  <data name="Message.File.Restricted" xml:space="preserve">
+    <value>Bestanden met de extensie {0} mogen niet worden geüpload. Neem contact op met uw beheerder voor meer informatie.</value>
+  </data>
 </root>

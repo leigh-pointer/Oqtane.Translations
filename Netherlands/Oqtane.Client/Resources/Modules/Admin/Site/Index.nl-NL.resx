@@ -324,4 +324,13 @@
   <data name="Aliases.Heading" xml:space="preserve">
     <value>aliassen</value>
   </data>
+  <data name="AliasName" xml:space="preserve">
+    <value>Naam</value>
+  </data>
+  <data name="AliasDefault" xml:space="preserve">
+    <value>Standaard?</value>
+  </data>
+  <data name="Confirm.Alias.Delete" xml:space="preserve">
+    <value>Weet je zeker dat je {0} wil verwijderen?</value>
+  </data>
 </root>
