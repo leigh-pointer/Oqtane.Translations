@@ -144,4 +144,7 @@
   <data name="DeleteLanguage.Text" xml:space="preserve">
     <value>Verwijderen</value>
   </data>
+  <data name="Translation" xml:space="preserve">
+    <value>Vertaling</value>
+  </data>
 </root>

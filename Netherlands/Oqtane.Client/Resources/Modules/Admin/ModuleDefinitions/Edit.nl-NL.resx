@@ -195,4 +195,25 @@
   <data name="Information.Text" xml:space="preserve">
     <value>Informatie</value>
   </data>
+  <data name="PackageName.HelpText" xml:space="preserve">
+    <value>De unieke naam van het pakket waaruit deze module is geïnstalleerd</value>
+  </data>
+  <data name="PackageName.Text" xml:space="preserve">
+    <value>Verpakkingsnaam:</value>
+  </data>
+  <data name="Error.Translation.Download" xml:space="preserve">
+    <value>Fout bij downloaden van vertaling</value>
+  </data>
+  <data name="Search.NoResults" xml:space="preserve">
+    <value>Er zijn geen vertalingen voor deze module of de pakketservice is uitgeschakeld</value>
+  </data>
+  <data name="Success.Translation.Download" xml:space="preserve">
+    <value>Vertaling succesvol gedownload. Klik op Installeren om de installatie te voltooien.</value>
+  </data>
+  <data name="Success.Translation.Install" xml:space="preserve">
+    <value>Vertaling succesvol geïnstalleerd. je moet jou toepassing &lt;a href={0}&gt;Herstart&lt;/a&gt; om deze wijzigingen toe te passen.</value>
+  </data>
+  <data name="Translations.Heading" xml:space="preserve">
+    <value>Vertalingen</value>
+  </data>
 </root>
