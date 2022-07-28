@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -121,7 +121,7 @@
     <value>Je bent al geregistreerd</value>
   </data>
   <data name="Info.Registration.InvalidEmail" xml:space="preserve">
-    <value>Houd er rekening mee dat registratie een geldig e-mailadres vereist om uw identiteit te verifiëren</value>
+    <value>Houd er rekening mee dat registratie een geldig e-mailadres vereist om jou identiteit te verifiëren</value>
   </data>
   <data name="Password.Confirm" xml:space="preserve">
     <value>Bevestig wachtwoord:</value>

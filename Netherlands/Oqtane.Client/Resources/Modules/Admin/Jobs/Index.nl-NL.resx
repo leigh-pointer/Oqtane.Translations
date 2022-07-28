@@ -192,4 +192,7 @@
   <data name="Once" xml:space="preserve">
     <value>Eenmaal uitvoeren</value>
   </data>
+  <data name="Message.NoJobs" xml:space="preserve">
+    <value>Houd er rekening mee dat je na een eerste installatie lt;a href={0}gt;Restartlt;/agt; De toepassing om de standaard geplande taken te activeren.</value>
+  </data>
 </root>

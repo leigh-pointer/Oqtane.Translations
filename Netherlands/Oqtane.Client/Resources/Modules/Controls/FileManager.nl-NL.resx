@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -142,6 +142,6 @@
     <value>Fout bij verwijderen van bestand</value>
   </data>
   <data name="Message.File.Restricted" xml:space="preserve">
-    <value>Bestanden met de extensie {0} mogen niet worden geüpload. Neem contact op met uw beheerder voor meer informatie.</value>
+    <value>Bestanden met de extensie {0} mogen niet worden geüpload. Neem contact op met je beheerder voor meer informatie.</value>
   </data>
 </root>

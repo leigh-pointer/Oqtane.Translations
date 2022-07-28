@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -217,12 +217,12 @@
     <value>Er kan geen gebruikersaccount worden gemaakt voor jouw externe aanmelding. Neem contact op met jouw beheerder voor verdere instructies.</value>
   </data>
   <data name="ExternalLoginStatus.VerificationRequired" xml:space="preserve">
-    <value>Om jouw externe login aan uw gebruikersaccount te koppelen, moet jouw identiteit verifiëren. Controleer jouw e-mail voor verdere instructies.</value>
+    <value>Om jou externe login aan je gebruikersaccount te koppelen, moet jou identiteit verifiëren. Controleer jou e-mail voor verdere instructies.</value>
   </data>
   <data name="ExternalLoginStatus.AccessDenied" xml:space="preserve">
-    <value>Jouw externe login is geweigerd. Neem contact op met jouw beheerder voor verdere instructies.</value>
+    <value>Jou externe login is geweigerd. Neem contact op met jou beheerder voor verdere instructies.</value>
   </data>
   <data name="ExternalLoginStatus.RemoteFailure" xml:space="preserve">
-    <value>Jouw externe aanmelding is mislukt. Neem contact op met jouw beheerder voor verdere instructies.</value>
+    <value>Jou externe aanmelding is mislukt. Neem contact op met jou beheerder voor verdere instructies.</value>
   </data>
 </root>

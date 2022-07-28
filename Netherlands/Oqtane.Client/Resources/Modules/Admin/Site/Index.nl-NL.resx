@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -193,7 +193,7 @@
     <value>Specificeer of SSL vereist is voor jouw SMTP-server</value>
   </data>
   <data name="SmptUsername.HelpText" xml:space="preserve">
-    <value>Voer de gebruikersnaam voor uw SMTP-account in</value>
+    <value>Voer de gebruikersnaam voor je SMTP-account in</value>
   </data>
   <data name="SmtpPassword.HelpText" xml:space="preserve">
     <value>Voer het wachtwoord voor jouw SMTP-account in</value>
@@ -205,10 +205,10 @@
     <value>Selecteer of je deze site beschikbaar wil hebben als Progressive Web Application (PWA)</value>
   </data>
   <data name="PwaApplicationIcon.HelpText" xml:space="preserve">
-    <value>Voeg een toepassingspictogram toe voor uw PWA. Het moet een PNG zijn met een afmeting van 192 x 192 pixels.</value>
+    <value>Voeg een toepassingspictogram toe voor je PWA. Het moet een PNG zijn met een afmeting van 192 x 192 pixels.</value>
   </data>
   <data name="PwaSplashIcon.HelpText" xml:space="preserve">
-    <value>Voeg een splash-pictogram toe voor uw PWA. Het moet een PNG zijn met een afmeting van 512 x 512 pixels.</value>
+    <value>Voeg een splash-pictogram toe voor je PWA. Het moet een PNG zijn met een afmeting van 512 x 512 pixels.</value>
   </data>
   <data name="Tenant.Text" xml:space="preserve">
     <value>Tenant :</value>
@@ -270,9 +270,6 @@
   <data name="Theme.Select" xml:space="preserve">
     <value>Selecteer thema</value>
   </data>
-  <data name="Aliases.HelpText" xml:space="preserve">
-    <value>De aliassen voor de site. Een alias kan een domeinnaam (www.site.com) of een virtuele map (bijv. www.site.com/folder) zijn. Als een site meerdere aliassen heeft, moeten deze worden gescheiden door komma's.</value>
-  </data>
   <data name="Prerender.HelpText" xml:space="preserve">
     <value>Specificeert of de site vooraf moet worden weergegeven (voor zoekcrawlers, enz...)</value>
   </data>
@@ -332,5 +329,8 @@
   </data>
   <data name="Confirm.Alias.Delete" xml:space="preserve">
     <value>Weet je zeker dat je {0} wil verwijderen?</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>De aliassen voor de site. Een alias kan een domeinnaam (www.site.com) of een virtuele map (bijv. www.site.com/folder) zijn.</value>
   </data>
 </root>

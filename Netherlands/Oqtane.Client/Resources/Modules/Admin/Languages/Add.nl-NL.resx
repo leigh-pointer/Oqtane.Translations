@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -148,24 +148,24 @@
     <value>Vertaling succesvol gedownload. Klik op Installeren om de installatie te voltooien.</value>
   </data>
   <data name="Success.Language.Install" xml:space="preserve">
-    <value>Vertalingen succesvol geïnstalleerd. Je moet uw toepassing &lt;a href={0}&gt;Herstarten&lt;/a&gt; om deze wijzigingen toe te passen.</value>
+    <value>Vertalingen succesvol geïnstalleerd. Je moet je toepassing &lt;a href={0}&gt;Herstarten&lt;/a&gt; om deze wijzigingen toe te passen.</value>
   </data>
   <data name="Search.NoResults" xml:space="preserve">
     <value>Geen enkele vertaling komt overeen met de opgegeven criteria of de pakketservice is uitgeschakeld</value>
-  </data>
-  <data name="Download.Heading" xml:space="preserve">
-    <value>Downloaden</value>
-  </data>
-  <data name="LanguageUpload.HelpText" xml:space="preserve">
-    <value>Upload een of meerdere vertalingen. Zodra ze zijn geüpload, klik op Installeren om de installatie te voltooien.</value>
-  </data>
-  <data name="LanguageUpload.Text" xml:space="preserve">
-    <value>Taal uploaden</value>
   </data>
   <data name="Manage.Heading" xml:space="preserve">
     <value>Beheren</value>
   </data>
   <data name="Upload.Heading" xml:space="preserve">
     <value>Uploaden</value>
+  </data>
+  <data name="Download.Heading" xml:space="preserve">
+    <value>Vertalingen</value>
+  </data>
+  <data name="LanguageUpload.HelpText" xml:space="preserve">
+    <value>Upload een of meerdere vertaalpakketten. Zodra ze zijn geüpload, klik je op Installeren om de installatie te voltooien.</value>
+  </data>
+  <data name="LanguageUpload.Text" xml:space="preserve">
+    <value>Vertaling</value>
   </data>
 </root>

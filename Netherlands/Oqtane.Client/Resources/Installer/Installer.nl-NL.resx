@@ -135,11 +135,8 @@
   <data name="Message.Require.DbInfo" xml:space="preserve">
     <value>Vul a.u.b. alle verplichte velden in. Zorg ervoor dat de wachtwoorden overeenkomen en het opgegeven e-mailadres geldig is.</value>
   </data>
-  <data name="Message.Password.Invalid" xml:space="preserve">
-    <value>Het opgegeven wachtwoord voldoet niet aan het wachtwoordbeleid. Controleer de minimale wachtwoordlengte en complexiteitsvereisten.</value>
-  </data>
   <data name="Register" xml:space="preserve">
-    <value>Registreer mij alstublieft voor belangrijke productupdates en beveiligingsbulletins</value>
+    <value>Registreer mij alsjeblieft voor belangrijke productupdates en beveiligingsbulletins</value>
   </data>
   <data name="Confirm.HelpText" xml:space="preserve">
     <value>Bevestig het hierboven ingevoerde wachtwoord door het opnieuw in te voeren</value>
@@ -167,5 +164,20 @@
   </data>
   <data name="Username.Text" xml:space="preserve">
     <value>Gebruikersnaam:</value>
+  </data>
+  <data name="Message.Password.Invalid" xml:space="preserve">
+    <value>Het opgegeven wachtwoord voldoet niet aan het wachtwoordbeleid. Controleer de minimale wachtwoordlengte en complexiteitsvereisten.</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>Voer een volledige verbindingsreeks in, inclusief alle parameters en scheidingstekens</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>String:</value>
+  </data>
+  <data name="EnterConnectionParameters" xml:space="preserve">
+    <value>Voer verbindingsparameters in</value>
+  </data>
+  <data name="EnterConnectionString" xml:space="preserve">
+    <value>Voer verbindingsreeks in</value>
   </data>
 </root>
