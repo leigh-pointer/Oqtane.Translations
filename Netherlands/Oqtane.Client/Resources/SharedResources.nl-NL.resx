@@ -336,4 +336,10 @@
   <data name="PageOfPages" xml:space="preserve">
     <value>Pagina {0} van {1}</value>
   </data>
+  <data name="BlazorHybrid" xml:space="preserve">
+    <value>Blazor Hybrid</value>
+  </data>
+  <data name="Oqtane.Marketplace" xml:space="preserve">
+    <value>Houd er rekening mee dat de hierboven weergegeven extensies van derden zijn geregistreerd in de &lt;a href="https://www.oqtane.net" target="new"&gt;Oqtane Marketplace&lt;/a&gt;, waardoor ze naadloos kunnen worden gedownload en geïnstalleerd in het kader.</value>
+  </data>
 </root>

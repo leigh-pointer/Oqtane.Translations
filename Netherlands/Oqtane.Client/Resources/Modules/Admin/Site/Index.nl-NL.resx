@@ -333,4 +333,10 @@
   <data name="Aliases.HelpText" xml:space="preserve">
     <value>De aliassen voor de site. Een alias kan een domeinnaam (www.site.com) of een virtuele map (bijv. www.site.com/folder) zijn.</value>
   </data>
+  <data name="HomePage.HelpText" xml:space="preserve">
+    <value>Selecteer de startpagina voor de site (te gebruiken als er geen pagina is met een pad van '/')</value>
+  </data>
+  <data name="HomePage.Text" xml:space="preserve">
+    <value>Startpagina:</value>
+  </data>
 </root>

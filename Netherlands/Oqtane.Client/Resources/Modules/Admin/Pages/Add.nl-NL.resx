@@ -159,9 +159,6 @@
   <data name="Error.Pane.Load" xml:space="preserve">
     <value>Fout bij het laden van deelvensterlay-outs voor thema</value>
   </data>
-  <data name="Message.Page.Exists" xml:space="preserve">
-    <value>Er bestaat al een pagina met pad {0} voor de geselecteerde bovenliggende pagina. Het paginapad moet uniek zijn voor de geselecteerde ouder.</value>
-  </data>
   <data name="Message.Required.PageInfo" xml:space="preserve">
     <value>Je moet een paginanaam, thema en container opgeven</value>
   </data>
@@ -228,13 +225,16 @@
   <data name="Appearance.Name" xml:space="preserve">
     <value>Verschijning</value>
   </data>
-  <data name="Message.Page.Deleted" xml:space="preserve">
-    <value>Er bestaat al een pagina met pad {0} voor de geselecteerde bovenliggende pagina in de Prullenbak. Herstel de pagina of verwijder deze uit de Prullenbak en maak hem opnieuw aan.</value>
-  </data>
   <data name="Meta.HelpText" xml:space="preserve">
     <value>Voer optioneel metatags in (in precies de vorm waarin je ze wil opnemen in de pagina-uitvoer).</value>
   </data>
   <data name="Meta.Text" xml:space="preserve">
     <value>Meta:</value>
+  </data>
+  <data name="Message.Page.Exists" xml:space="preserve">
+    <value>Er bestaat al een pagina met pad '{0}' voor deze site. Paginapaden moeten uniek zijn. Mogelijk moet je controleren of er een pagina met dit pad in de Prullenbak staat.</value>
+  </data>
+  <data name="Message.Page.Reserved" xml:space="preserve">
+    <value>De paginanaam {0} is gereserveerd. Voer een andere naam in voor jou pagina.</value>
   </data>
 </root>
