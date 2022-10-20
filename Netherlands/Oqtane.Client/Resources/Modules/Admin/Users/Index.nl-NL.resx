@@ -210,26 +210,14 @@
   <data name="AllowSiteLogin.Text" xml:space="preserve">
     <value>Sta Inloggen toe?</value>
   </data>
-  <data name="Authority.HelpText" xml:space="preserve">
-    <value>De autoriteit-url of uitgever-URL die is gekoppeld aan de OpenID Connect-provider</value>
-  </data>
   <data name="Authority.Text" xml:space="preserve">
     <value>Autoriteit:</value>
-  </data>
-  <data name="AuthorizationUrl.HelpText" xml:space="preserve">
-    <value>Het eindpunt voor het verkrijgen van een autorisatiecode</value>
   </data>
   <data name="AuthorizationUrl.Text" xml:space="preserve">
     <value>Autorisatie-URL:</value>
   </data>
-  <data name="ClientID.HelpText" xml:space="preserve">
-    <value>De klant-ID van de provider</value>
-  </data>
   <data name="ClientID.Text" xml:space="preserve">
     <value>Klant identificatie:</value>
-  </data>
-  <data name="ClientSecret.HelpText" xml:space="preserve">
-    <value>Het klantgeheim van de provider</value>
   </data>
   <data name="ClientSecret.Text" xml:space="preserve">
     <value>Klantgeheim:</value>
@@ -246,9 +234,6 @@
   <data name="DomainFilter.Text" xml:space="preserve">
     <value>Domeinfilter:</value>
   </data>
-  <data name="EmailClaimType.HelpText" xml:space="preserve">
-    <value>De typenaam voor de e-mailadresclaim verstrekt door de provider</value>
-  </data>
   <data name="EmailClaimType.Text" xml:space="preserve">
     <value>Type e-mailclaim:</value>
   </data>
@@ -258,17 +243,11 @@
   <data name="LockoutSettings.Heading" xml:space="preserve">
     <value>Instellingen voor vergrendeling</value>
   </data>
-  <data name="MetadataUrl.HelpText" xml:space="preserve">
-    <value>Het detectie-eindpunt voor het verkrijgen van metagegevens voor deze provider. Geef alleen op als de OpenID Connect-provider niet de standaardbenadering gebruikt (bijv. /.well-known/openid-configuration)</value>
-  </data>
   <data name="MetadataUrl.Text" xml:space="preserve">
     <value>Metadata-URL:</value>
   </data>
   <data name="PasswordSettings.Heading" xml:space="preserve">
     <value>Wachtwoordinstellingen</value>
-  </data>
-  <data name="PKCE.HelpText" xml:space="preserve">
-    <value>Geef aan of de provider Proof Key for Code Exchange (PKCE) ondersteunt</value>
   </data>
   <data name="PKCE.Text" xml:space="preserve">
     <value>PKCE gebruiken?</value>
@@ -285,14 +264,8 @@
   <data name="ProviderType.Text" xml:space="preserve">
     <value>Aanbiedertype:</value>
   </data>
-  <data name="RedirectUrl.HelpText" xml:space="preserve">
-    <value>De omleidings-url (of terugbel-url) die normaal gesproken moet worden geregistreerd bij de provider</value>
-  </data>
   <data name="RedirectUrl.Text" xml:space="preserve">
     <value>Omleidings-URL:</value>
-  </data>
-  <data name="Scopes.HelpText" xml:space="preserve">
-    <value>Een lijst met Scopes die moeten worden aangevraagd bij de provider (gescheiden door komma's). Als er geen zijn gespecificeerd, worden standaard standaard Scopes gebruikt.</value>
   </data>
   <data name="Scopes.Text" xml:space="preserve">
     <value>Bereik:</value>
@@ -383,5 +356,38 @@
   </data>
   <data name="Parameters.Text" xml:space="preserve">
     <value>Parameters:</value>
+  </data>
+  <data name="Authority.HelpText" xml:space="preserve">
+    <value>De autoriteits-URL of uitgever-URL die is gekoppeld aan de identiteitsprovider</value>
+  </data>
+  <data name="AuthorizationUrl.HelpText" xml:space="preserve">
+    <value>Het eindpunt voor het verkrijgen van een autorisatiecode</value>
+  </data>
+  <data name="ClientID.HelpText" xml:space="preserve">
+    <value>De klant-ID voor de identiteitsprovider</value>
+  </data>
+  <data name="ClientSecret.HelpText" xml:space="preserve">
+    <value>Het clientgeheim voor de identiteitsprovider</value>
+  </data>
+  <data name="EmailClaimType.HelpText" xml:space="preserve">
+    <value>De naam van de e-mailadresclaim die is opgegeven door de identiteitsprovider</value>
+  </data>
+  <data name="MetadataUrl.HelpText" xml:space="preserve">
+    <value>Het detectie-eindpunt voor het verkrijgen van metagegevens voor deze identiteitsprovider. Geef alleen op als de identiteitsprovider niet de standaardbenadering gebruikt (bijv. /.well-known/openid-configuration)</value>
+  </data>
+  <data name="PKCE.HelpText" xml:space="preserve">
+    <value>Geef aan of de identiteitsprovider bewijssleutel voor code-uitwisseling (PKCE) ondersteunt</value>
+  </data>
+  <data name="RedirectUrl.HelpText" xml:space="preserve">
+    <value>De omleidings-URL (of terugbel-URL) die normaal gesproken moet worden geregistreerd bij de identiteitsprovider</value>
+  </data>
+  <data name="Scopes.HelpText" xml:space="preserve">
+    <value>Een lijst met bereiken die moeten worden aangevraagd bij de identiteitsprovider (gescheiden door komma's). Als er geen zijn opgegeven, worden standaard standaardbereiken gebruikt.</value>
+  </data>
+  <data name="RoleClaimType.HelpText" xml:space="preserve">
+    <value>Geef optioneel de naam op van de rolclaim die is opgegeven door de identiteitsprovider. Deze rollen worden gebruikt naast eventuele interne gebruikersrollen die binnen de site zijn toegewezen.</value>
+  </data>
+  <data name="RoleClaimType.Text" xml:space="preserve">
+    <value>Type rolclaim:</value>
   </data>
 </root>
