@@ -276,4 +276,13 @@
   <data name="Environment.Text" xml:space="preserve">
     <value>Omgeving:</value>
   </data>
+  <data name="Log.Heading" xml:space="preserve">
+    <value>Logboek</value>
+  </data>
+  <data name="Log.Text" xml:space="preserve">
+    <value>Logboek:</value>
+  </data>
+  <data name="Log.HelpText" xml:space="preserve">
+    <value>Systeemlogboekinformatie voor de huidige dag</value>
+  </data>
 </root>

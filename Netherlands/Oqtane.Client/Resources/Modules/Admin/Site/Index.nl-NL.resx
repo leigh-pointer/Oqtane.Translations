@@ -192,14 +192,8 @@
   <data name="UseSsl.HelpText" xml:space="preserve">
     <value>Specificeer of SSL vereist is voor jouw SMTP-server</value>
   </data>
-  <data name="SmptUsername.HelpText" xml:space="preserve">
-    <value>Voer de gebruikersnaam voor je SMTP-account in</value>
-  </data>
   <data name="SmtpPassword.HelpText" xml:space="preserve">
     <value>Voer het wachtwoord voor jouw SMTP-account in</value>
-  </data>
-  <data name="SmptSender.HelpText" xml:space="preserve">
-    <value>Voer het e-mailadres in van waaruit e-mails worden verzonden. Houd er rekening mee dat dit e-mailadres mogelijk moet worden geautoriseerd met de SMTP-server.</value>
   </data>
   <data name="EnablePWA.HelpText" xml:space="preserve">
     <value>Selecteer of je deze site beschikbaar wil hebben als Progressive Web Application (PWA)</value>
@@ -240,14 +234,8 @@
   <data name="UseSsl.Text" xml:space="preserve">
     <value>SSL ingeschakeld:</value>
   </data>
-  <data name="SmptUsername.Text" xml:space="preserve">
-    <value>Gebruikersnaam:</value>
-  </data>
   <data name="SmtpPassword.Text" xml:space="preserve">
     <value>Wachtwoord:</value>
-  </data>
-  <data name="SmptSender.Text" xml:space="preserve">
-    <value>E-mail afzender:</value>
   </data>
   <data name="EnablePWA.Text" xml:space="preserve">
     <value>Is ingeschakeld?</value>
@@ -338,5 +326,23 @@
   </data>
   <data name="HomePage.Text" xml:space="preserve">
     <value>Startpagina:</value>
+  </data>
+  <data name="SmtpUsername.HelpText" xml:space="preserve">
+    <value>Voer de gebruikersnaam voor jouw SMTP-account in</value>
+  </data>
+  <data name="SmtpSender.HelpText" xml:space="preserve">
+    <value>Voer het e-mailadres in waarvandaan e-mails worden verzonden. Houd er rekening mee dat dit e-mailadres mogelijk moet worden geautoriseerd met de SMTP-server.</value>
+  </data>
+  <data name="SmtpUsername.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
+  </data>
+  <data name="SmtpSender.Text" xml:space="preserve">
+    <value>E-mail afzender:</value>
+  </data>
+  <data name="SmtpRelay.HelpText" xml:space="preserve">
+    <value>Geef deze optie alleen op als je een SMTP-relayservice correct hebt geconfigureerd om jouw uitgaande e-mail te routeren. Met deze optie worden meldingen verzonden vanaf de e-mail van de gebruiker in plaats van vanaf de hierboven opgegeven e-mailafzender.</value>
+  </data>
+  <data name="SmtpRelay.Text" xml:space="preserve">
+    <value>Relais geconfigureerd?</value>
   </data>
 </root>

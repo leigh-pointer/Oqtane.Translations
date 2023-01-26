@@ -198,4 +198,7 @@
   <data name="LastLogin.Text" xml:space="preserve">
     <value>Laatste aanmelding:</value>
   </data>
+  <data name="Message.Password.Complexity" xml:space="preserve">
+    <value>Opgegeven wachtwoord voldoet niet aan het complexiteitsbeleid</value>
+  </data>
 </root>

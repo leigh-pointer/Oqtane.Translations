@@ -216,4 +216,7 @@
   <data name="Translations.Heading" xml:space="preserve">
     <value>Vertalingen</value>
   </data>
+  <data name="Search.PackageNameMissing" xml:space="preserve">
+    <value>Er is geen pakketnaam opgegeven voor de module</value>
+  </data>
 </root>
