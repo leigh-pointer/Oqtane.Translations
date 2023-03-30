@@ -165,9 +165,6 @@
   <data name="Email.Text" xml:space="preserve">
     <value>E-mail:</value>
   </data>
-  <data name="Password.HelpText" xml:space="preserve">
-    <value>Als je jou wachtwoord wil wijzigen, kun je dit hier invoeren. Kies een voldoende veilig wachtwoord.</value>
-  </data>
   <data name="Password.Text" xml:space="preserve">
     <value>Wachtwoord:</value>
   </data>
@@ -176,5 +173,23 @@
   </data>
   <data name="Username.Text" xml:space="preserve">
     <value>Gebruikersnaam:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Voer een voldoende veilig wachtwoord in dat voldoet aan de vereisten voor wachtwoordcomplexiteit</value>
+  </data>
+  <data name="Password.ValidationCriteria" xml:space="preserve">
+    <value>Wachtwoorden moeten een minimale lengte hebben van {0} tekens, waaronder ten minste {1} unieke tekens, {2}{3}{4}{5} om te voldoen aan de vereisten voor wachtwoordcomplicatie voor deze site.</value>
+  </data>
+  <data name="Password.DigitRequirement" xml:space="preserve">
+    <value>Minstens één cijfer</value>
+  </data>
+  <data name="Password.LowercaseRequirement" xml:space="preserve">
+    <value>Ten minste een kleine letter</value>
+  </data>
+  <data name="Password.PunctuationRequirement" xml:space="preserve">
+    <value>Minstens één leesteken</value>
+  </data>
+  <data name="Password.UppercaseRequirement" xml:space="preserve">
+    <value>Ten minste een hoofdletter</value>
   </data>
 </root>

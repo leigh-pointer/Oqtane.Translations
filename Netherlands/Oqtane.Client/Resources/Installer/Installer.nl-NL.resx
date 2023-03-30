@@ -171,13 +171,13 @@
   <data name="ConnectionString.HelpText" xml:space="preserve">
     <value>Voer een volledige verbindingsreeks in, inclusief alle parameters en scheidingstekens</value>
   </data>
-  <data name="ConnectionString.Text" xml:space="preserve">
-    <value>String:</value>
-  </data>
   <data name="EnterConnectionParameters" xml:space="preserve">
     <value>Voer verbindingsparameters in</value>
   </data>
   <data name="EnterConnectionString" xml:space="preserve">
     <value>Voer verbindingsreeks in</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Instellingen:</value>
   </data>
 </root>

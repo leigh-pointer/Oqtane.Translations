@@ -276,9 +276,6 @@
   <data name="Hosting.Heading" xml:space="preserve">
     <value>Hostingmodel</value>
   </data>
-  <data name="TenantInformation.Heading" xml:space="preserve">
-    <value>Tenant Informatie</value>
-  </data>
   <data name="PWASettings.Heading" xml:space="preserve">
     <value>PWA-instellingen</value>
   </data>
@@ -288,14 +285,8 @@
   <data name="ConnectionString.Text" xml:space="preserve">
     <value>Verbinding:</value>
   </data>
-  <data name="Database.Text" xml:space="preserve">
-    <value>Gegevensbestand:</value>
-  </data>
   <data name="ConnectionString.HelpText" xml:space="preserve">
     <value>De verbindingsinformatie voor de database</value>
-  </data>
-  <data name="Database.HelpText" xml:space="preserve">
-    <value>De database voor de tenant</value>
   </data>
   <data name="DeleteSite.Text" xml:space="preserve">
     <value>Site verwijderen</value>
@@ -344,5 +335,20 @@
   </data>
   <data name="SmtpRelay.Text" xml:space="preserve">
     <value>Relais geconfigureerd?</value>
+  </data>
+  <data name="TenantInformation.Heading" xml:space="preserve">
+    <value>Databank</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Type:</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>Het type database</value>
+  </data>
+  <data name="SiteMap.HelpText" xml:space="preserve">
+    <value>De sitemap-URL voor deze site die kan worden ingediend bij zoekmachines voor indexering</value>
+  </data>
+  <data name="SiteMap.Text" xml:space="preserve">
+    <value>Sitemap:</value>
   </data>
 </root>

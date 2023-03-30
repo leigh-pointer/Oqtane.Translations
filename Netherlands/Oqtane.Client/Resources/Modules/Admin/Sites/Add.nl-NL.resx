@@ -123,9 +123,6 @@
   <data name="SqlServer" xml:space="preserve">
     <value>SQL-server</value>
   </data>
-  <data name="Server.Text" xml:space="preserve">
-    <value>Server:</value>
-  </data>
   <data name="Container.Select" xml:space="preserve">
     <value>Selecteer container</value>
   </data>
@@ -144,9 +141,6 @@
   <data name="DefaultContainer.HelpText" xml:space="preserve">
     <value>Selecteer de standaardcontainer voor de site</value>
   </data>
-  <data name="Tenant.Text" xml:space="preserve">
-    <value>Tenant :</value>
-  </data>
   <data name="Aliases.Text" xml:space="preserve">
     <value>aliassen:</value>
   </data>
@@ -155,12 +149,6 @@
   </data>
   <data name="SiteTemplate.Select" xml:space="preserve">
     <value>Selecteer sitesjabloon</value>
-  </data>
-  <data name="Tenant.Select" xml:space="preserve">
-    <value>Selecteer huurder</value>
-  </data>
-  <data name="Tenant.Add" xml:space="preserve">
-    <value>Nieuwe huurder maken</value>
   </data>
   <data name="Error.Theme.LoadContainers" xml:space="preserve">
     <value>Fout bij laden van containers voor thema</value>
@@ -171,20 +159,11 @@
   <data name="Error.InvalidPassword" xml:space="preserve">
     <value>Ongeldig hostwachtwoord</value>
   </data>
-  <data name="Error.TenantName.Exists" xml:space="preserve">
-    <value>Naam Tenant ontbreekt of bestaat al</value>
-  </data>
   <data name="Message.SiteName.InUse" xml:space="preserve">
     <value>{0} Reeds gebruikt voor een andere site</value>
   </data>
-  <data name="Message.Required.Tenant" xml:space="preserve">
-    <value>Je  moet een huurder, sitenaam, alias, standaardthema/container en sitesjabloon opgeven</value>
-  </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Voer de naam van de site in</value>
-  </data>
-  <data name="DefaultTheme.HelpText" xml:space="preserve">
-    <value>Selecteer het standaardthema voor de website</value>
   </data>
   <data name="AdminContainer.HelpText" xml:space="preserve">
     <value>Selecteer de beheerderscontainer voor de site</value>
@@ -192,29 +171,8 @@
   <data name="SiteTemplate.HelpText" xml:space="preserve">
     <value>Selecteer de sitesjabloon</value>
   </data>
-  <data name="Tenant.HelpText" xml:space="preserve">
-    <value>Selecteer de huurder voor de site</value>
-  </data>
   <data name="TenantName.HelpText" xml:space="preserve">
     <value>Voer de naam in voor de huurder</value>
-  </data>
-  <data name="DatabaseType.HelpText" xml:space="preserve">
-    <value>Selecteer het databasetype voor de tenant</value>
-  </data>
-  <data name="DatabaseServer.HelpText" xml:space="preserve">
-    <value>Voer de server in voor de huurder</value>
-  </data>
-  <data name="Database.HelpText" xml:space="preserve">
-    <value>Voer de database voor de huurder in</value>
-  </data>
-  <data name="IntegratedSecurity.HelpText" xml:space="preserve">
-    <value>Selecteer of je geïntegreerde beveiliging wil of niet</value>
-  </data>
-  <data name="DatabaseUsername.HelpText" xml:space="preserve">
-    <value>Voer de gebruikersnaam voor de geïntegreerde beveiliging in</value>
-  </data>
-  <data name="DatabasePassword.HelpText" xml:space="preserve">
-    <value>Voer het wachtwoord in voor de geïntegreerde beveiliging</value>
   </data>
   <data name="HostUsername.HelpText" xml:space="preserve">
     <value>Voer de gebruikersnaam van de host voor deze site in</value>
@@ -231,23 +189,8 @@
   <data name="SiteTemplate.Text" xml:space="preserve">
     <value>Sitesjabloon:</value>
   </data>
-  <data name="TenantName.Text" xml:space="preserve">
-    <value>Naam Tenant :</value>
-  </data>
-  <data name="DatabaseType.Text" xml:space="preserve">
-    <value>Databasetype:</value>
-  </data>
   <data name="Database.Text" xml:space="preserve">
     <value>Gegevensbestand:</value>
-  </data>
-  <data name="IntegratedSecurity.Text" xml:space="preserve">
-    <value>Geïntegreerde beveiliging:</value>
-  </data>
-  <data name="DatabaseUsername.Text" xml:space="preserve">
-    <value>Gebruikersnaam database:</value>
-  </data>
-  <data name="DatabasePassword.Text" xml:space="preserve">
-    <value>Databasewachtwoord:</value>
   </data>
   <data name="HostUsername.Text" xml:space="preserve">
     <value>Host-gebruikersnaam:</value>
@@ -273,13 +216,43 @@
   <data name="ConnectionString.HelpText" xml:space="preserve">
     <value>Voer een volledige verbindingsreeks in, inclusief alle parameters en scheidingstekens</value>
   </data>
-  <data name="ConnectionString.Text" xml:space="preserve">
-    <value>String:</value>
-  </data>
   <data name="EnterConnectionParameters" xml:space="preserve">
     <value>Voer verbindingsparameters in</value>
   </data>
   <data name="EnterConnectionString" xml:space="preserve">
     <value>Voer verbindingsreeks in</value>
+  </data>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>Gegevensbestand:</value>
+  </data>
+  <data name="Tenant.Select" xml:space="preserve">
+    <value>Selecteer Databank</value>
+  </data>
+  <data name="Tenant.Add" xml:space="preserve">
+    <value>Database maken</value>
+  </data>
+  <data name="Error.TenantName.Exists" xml:space="preserve">
+    <value>Databasenaam ontbreekt of bestaat al</value>
+  </data>
+  <data name="Message.Required.Tenant" xml:space="preserve">
+    <value>Je moet een database, sitenaam, alias, standaardthema/container en sitesjabloon opgeven</value>
+  </data>
+  <data name="DefaultTheme.HelpText" xml:space="preserve">
+    <value>Selecteer het standaardthema voor de site</value>
+  </data>
+  <data name="Tenant.HelpText" xml:space="preserve">
+    <value>Selecteer de database voor de site</value>
+  </data>
+  <data name="DatabaseType.HelpText" xml:space="preserve">
+    <value>Selecteer het databasetype</value>
+  </data>
+  <data name="TenantName.Text" xml:space="preserve">
+    <value>Naam:</value>
+  </data>
+  <data name="DatabaseType.Text" xml:space="preserve">
+    <value>Type:</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Instellingen:</value>
   </data>
 </root>

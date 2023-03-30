@@ -147,10 +147,4 @@
   <data name="LanguageUpload.Text" xml:space="preserve">
     <value>Vertaling</value>
   </data>
-  <data name="Translated.HelpText" xml:space="preserve">
-    <value>Geef aan of jou talen wil selecteren waarin vertalingen zijn geïnstalleerd</value>
-  </data>
-  <data name="Translated.Text" xml:space="preserve">
-    <value>Vertaald?</value>
-  </data>
 </root>
