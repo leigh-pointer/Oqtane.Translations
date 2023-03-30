@@ -147,4 +147,7 @@
   <data name="Translation" xml:space="preserve">
     <value>Vertaling</value>
   </data>
+  <data name="Success.Language.Download" xml:space="preserve">
+    <value>Vertaling succesvol gedownload. Klik op Installeren om de installatie te voltooien.</value>
+  </data>
 </root>

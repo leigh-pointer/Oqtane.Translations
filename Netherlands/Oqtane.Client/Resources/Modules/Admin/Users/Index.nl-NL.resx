@@ -388,6 +388,12 @@
     <value>Geef optioneel de naam op van de rolclaim die is opgegeven door de identiteitsprovider. Deze rollen worden gebruikt naast eventuele interne gebruikersrollen die binnen de site zijn toegewezen.</value>
   </data>
   <data name="RoleClaimType.Text" xml:space="preserve">
-    <value>Type rolclaim:</value>
+    <value>Rolclaim:</value>
+  </data>
+  <data name="ProfileClaimTypes.HelpText" xml:space="preserve">
+    <value>Geef optioneel een door komma's gescheiden lijst op met gebruikersprofielclaims die zijn verstrekt door de identiteitsprovider, evenals toewijzingen aan jou gebruikersprofieldefinitie. Als de identiteitsprovider bijvoorbeeld een 'givenname'-claim bevat en je een gebruikersprofieldefinitie 'FirstName' heb, moet je 'givenname:FirstName' opgeven.</value>
+  </data>
+  <data name="ProfileClaimTypes.Text" xml:space="preserve">
+    <value>Gebruikersprofielclaims:</value>
   </data>
 </root>
