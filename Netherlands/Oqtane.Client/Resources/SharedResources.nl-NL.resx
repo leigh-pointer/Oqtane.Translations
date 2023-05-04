@@ -340,6 +340,48 @@
     <value>Blazor Hybrid</value>
   </data>
   <data name="Oqtane.Marketplace" xml:space="preserve">
-    <value>Houd er rekening mee dat de hierboven weergegeven extensies van derden zijn geregistreerd in de &lt;a href="https://www.oqtane.net" target="new"&gt;Oqtane Marketplace&lt;/a&gt;, waardoor ze naadloos kunnen worden gedownload en geïnstalleerd in het kader.</value>
+    <value>Houd er rekening mee dat extensies van derden zijn geregistreerd in de &lt;a href="https://www.oqtane.net" target="new"&gt;Oqtane Marketplace&lt;/a&gt;, waardoor ze naadloos kunnen worden gedownload en geïnstalleerd in het framework.</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Thuis</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Dichtbij</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Apply" xml:space="preserve">
+    <value>Toepassen</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Selecteer</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Volgende</value>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>Vorig</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Indienen</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Vernieuwen</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Rug</value>
+  </data>
+  <data name="Return" xml:space="preserve">
+    <value>Opbrengst</value>
+  </data>
+  <data name="New" xml:space="preserve">
+    <value>Nieuw</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>Weergave</value>
+  </data>
+  <data name="Confirm" xml:space="preserve">
+    <value>Bevestigen</value>
   </data>
 </root>

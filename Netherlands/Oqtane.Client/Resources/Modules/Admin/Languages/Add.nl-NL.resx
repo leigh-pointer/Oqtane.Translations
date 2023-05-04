@@ -132,19 +132,19 @@
   <data name="IsDefault.Text" xml:space="preserve">
     <value>Standaard?</value>
   </data>
-  <data name="Success.Language.Install" xml:space="preserve">
-    <value>Vertalingen succesvol geïnstalleerd. Je moet je toepassing &lt;a href={0}&gt;Herstarten&lt;/a&gt; om deze wijzigingen toe te passen.</value>
-  </data>
   <data name="Manage.Heading" xml:space="preserve">
     <value>Beheren</value>
   </data>
   <data name="Upload.Heading" xml:space="preserve">
     <value>Uploaden</value>
   </data>
-  <data name="LanguageUpload.HelpText" xml:space="preserve">
-    <value>Upload een of meerdere vertaalpakketten. Zodra ze zijn geüpload, klik je op Installeren om de installatie te voltooien.</value>
-  </data>
   <data name="LanguageUpload.Text" xml:space="preserve">
     <value>Vertaling</value>
+  </data>
+  <data name="Success.Language.Download" xml:space="preserve">
+    <value>Vertaalpakket succesvol opgeslagen. Je moet &lt;a href={0}&gt;Opnieuw opstarten&lt;/a&gt; om de installatie te voltooien.</value>
+  </data>
+  <data name="LanguageUpload.HelpText" xml:space="preserve">
+    <value>Upload één of meerdere vertaalpakketten.</value>
   </data>
 </root>

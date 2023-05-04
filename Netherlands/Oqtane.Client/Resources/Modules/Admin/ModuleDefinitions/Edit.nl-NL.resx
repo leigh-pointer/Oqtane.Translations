@@ -207,16 +207,16 @@
   <data name="Search.NoResults" xml:space="preserve">
     <value>Er zijn geen vertalingen voor deze module of de pakketservice is uitgeschakeld</value>
   </data>
-  <data name="Success.Translation.Download" xml:space="preserve">
-    <value>Vertaling succesvol gedownload. Klik op Installeren om de installatie te voltooien.</value>
-  </data>
-  <data name="Success.Translation.Install" xml:space="preserve">
-    <value>Vertaling succesvol geïnstalleerd. je moet jou toepassing &lt;a href={0}&gt;Herstart&lt;/a&gt; om deze wijzigingen toe te passen.</value>
-  </data>
   <data name="Translations.Heading" xml:space="preserve">
     <value>Vertalingen</value>
   </data>
   <data name="Search.PackageNameMissing" xml:space="preserve">
     <value>Er is geen pakketnaam opgegeven voor de module</value>
+  </data>
+  <data name="Success.Translation.Download" xml:space="preserve">
+    <value>Vertaalpakket succesvol opgeslagen. Je moet uw toepassing &lt;a href={0}&gt;opnieuw starten&lt;/a&gt; om de installatie te voltooien.</value>
+  </data>
+  <data name="Message.DuplicateName" xml:space="preserve">
+    <value>Er bestaat al een module met de opgegeven naam</value>
   </data>
 </root>
