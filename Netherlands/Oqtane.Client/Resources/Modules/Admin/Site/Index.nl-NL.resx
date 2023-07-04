@@ -351,4 +351,34 @@
   <data name="SiteMap.Text" xml:space="preserve">
     <value>Sitemap:</value>
   </data>
+  <data name="Appearance.Heading" xml:space="preserve">
+    <value>Verschijning</value>
+  </data>
+  <data name="HeadContent.HelpText" xml:space="preserve">
+    <value>Voer optioneel inhoud in die moet worden opgenomen in de paginakop (d.w.z. meta-, link- of scripttags)</value>
+  </data>
+  <data name="HeadContent.Text" xml:space="preserve">
+    <value>Hoofd Inhoud:</value>
+  </data>
+  <data name="BodyContent.HelpText" xml:space="preserve">
+    <value>Voer optioneel inhoud in die moet worden opgenomen in de hoofdtekst van de pagina (d.w.z. scripttags)</value>
+  </data>
+  <data name="BodyContent.Text" xml:space="preserve">
+    <value>Lichaamsinhoud:</value>
+  </data>
+  <data name="PageContent.Heading" xml:space="preserve">
+    <value>Pagina inhoud</value>
+  </data>
+  <data name="SMTPEnabled.HelpText" xml:space="preserve">
+    <value>Geef op of SMTP is ingeschakeld voor deze site</value>
+  </data>
+  <data name="SMTPEnabled.Text" xml:space="preserve">
+    <value>Ingeschakeld?</value>
+  </data>
+  <data name="Version.HelpText" xml:space="preserve">
+    <value>De siteversie (voor migraties van sitecontent)</value>
+  </data>
+  <data name="Version.Text" xml:space="preserve">
+    <value>Versie:</value>
+  </data>
 </root>

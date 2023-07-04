@@ -180,4 +180,7 @@
   <data name="ConnectionString.Text" xml:space="preserve">
     <value>Instellingen:</value>
   </data>
+  <data name="Template" xml:space="preserve">
+    <value>Selecteer een sitesjabloon</value>
+  </data>
 </root>

@@ -237,4 +237,22 @@
   <data name="Message.Page.Reserved" xml:space="preserve">
     <value>De paginanaam {0} is gereserveerd. Voer een andere naam in voor jou pagina.</value>
   </data>
+  <data name="Error.Page.Load" xml:space="preserve">
+    <value>Fout bij laden van pagina</value>
+  </data>
+  <data name="HeadContent.HelpText" xml:space="preserve">
+    <value>Voer optioneel inhoud in die moet worden opgenomen in de paginakop (d.w.z. meta-, link- of scripttags)</value>
+  </data>
+  <data name="HeadContent.Text" xml:space="preserve">
+    <value>Hoofd Inhoud:</value>
+  </data>
+  <data name="BodyContent.HelpText" xml:space="preserve">
+    <value>Voer optioneel inhoud in die moet worden opgenomen in de hoofdtekst van de pagina (d.w.z. scripttags)</value>
+  </data>
+  <data name="BodyContent.Text" xml:space="preserve">
+    <value>Lichaamsinhoud:</value>
+  </data>
+  <data name="PageContent.Heading" xml:space="preserve">
+    <value>Pagina inhoud</value>
+  </data>
 </root>

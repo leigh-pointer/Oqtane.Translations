@@ -144,4 +144,7 @@
   <data name="ViewTheme.Text" xml:space="preserve">
     <value>Visie</value>
   </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Ingeschakeld?</value>
+  </data>
 </root>
