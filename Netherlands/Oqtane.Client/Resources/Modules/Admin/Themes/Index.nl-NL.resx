@@ -147,4 +147,7 @@
   <data name="Enabled" xml:space="preserve">
     <value>Ingeschakeld?</value>
   </data>
+  <data name="InstallTheme.Text" xml:space="preserve">
+    <value>Installeer thema</value>
+  </data>
 </root>

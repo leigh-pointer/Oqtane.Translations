@@ -277,19 +277,13 @@
     <value>Lokale versie</value>
   </data>
   <data name="Search.Source" xml:space="preserve">
-    <value>bron</value>
+    <value>Bron</value>
   </data>
   <data name="Message.InfoRequired" xml:space="preserve">
     <value>Geef alle vereiste informatie op</value>
   </data>
-  <data name="Free" xml:space="preserve">
-    <value>Gratis</value>
-  </data>
-  <data name="Paid" xml:space="preserve">
-    <value>Betaald</value>
-  </data>
   <data name="Search.Price" xml:space="preserve">
-    <value>prijs</value>
+    <value>Prijs</value>
   </data>
   <data name="Accept" xml:space="preserve">
     <value>Aanvaarden</value>
@@ -383,5 +377,32 @@
   </data>
   <data name="Confirm" xml:space="preserve">
     <value>Bevestigen</value>
+  </data>
+  <data name="Paid" xml:space="preserve">
+    <value>Commercieel</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Open source</value>
+  </data>
+  <data name="Help" xml:space="preserve">
+    <value>Hulp</value>
+  </data>
+  <data name="Support" xml:space="preserve">
+    <value>Steun</value>
+  </data>
+  <data name="Search.Alphabetical" xml:space="preserve">
+    <value>Alfabetisch</value>
+  </data>
+  <data name="Buy" xml:space="preserve">
+    <value>Koop nu</value>
+  </data>
+  <data name="Search.Popularity" xml:space="preserve">
+    <value>Populariteit</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>Resultaten</value>
+  </data>
+  <data name="Search.RecentlyReleased" xml:space="preserve">
+    <value>Onlangs uitgebracht</value>
   </data>
 </root>

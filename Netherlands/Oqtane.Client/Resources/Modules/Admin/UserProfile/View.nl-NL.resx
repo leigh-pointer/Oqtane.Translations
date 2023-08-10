@@ -144,4 +144,7 @@
   <data name="OriginalMessage" xml:space="preserve">
     <value>Originele bericht</value>
   </data>
+  <data name="ModuleTitle.Text" xml:space="preserve">
+    <value>Melding bekijken</value>
+  </data>
 </root>

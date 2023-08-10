@@ -150,4 +150,13 @@
   <data name="Error.Module.Load" xml:space="preserve">
     <value>Er is een probleem opgetreden bij het laden van module {0}. De module is ongeldig of bestaat niet.</value>
   </data>
+  <data name="Module.HelpText" xml:space="preserve">
+    <value>De naam van de module</value>
+  </data>
+  <data name="Module.Text" xml:space="preserve">
+    <value>Module:</value>
+  </data>
+  <data name="ModuleTitle.Text" xml:space="preserve">
+    <value>Module-instellingen</value>
+  </data>
 </root>

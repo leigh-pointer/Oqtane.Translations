@@ -156,4 +156,7 @@
   <data name="Enabled" xml:space="preserve">
     <value>Ingeschakeld?</value>
   </data>
+  <data name="DeleteModule.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
 </root>

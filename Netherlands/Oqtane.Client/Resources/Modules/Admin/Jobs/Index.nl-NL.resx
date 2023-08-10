@@ -195,4 +195,7 @@
   <data name="Message.NoJobs" xml:space="preserve">
     <value>Hou er rekening mee dat je na een eerste installatie de toepassing moet &lt;a href={0}&gt;opnieuw starten&lt;/a&gt; om de standaard geplande taken te activeren.</value>
   </data>
+  <data name="Refresh.Text" xml:space="preserve">
+    <value>Vernieuwen</value>
+  </data>
 </root>

@@ -141,4 +141,7 @@
   <data name="Subject.Text" xml:space="preserve">
     <value>Onderwerpen:</value>
   </data>
+  <data name="ModuleTitle.Text" xml:space="preserve">
+    <value>Melding verzenden</value>
+  </data>
 </root>

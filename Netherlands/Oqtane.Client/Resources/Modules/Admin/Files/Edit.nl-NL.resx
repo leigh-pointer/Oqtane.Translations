@@ -183,4 +183,16 @@
   <data name="ImageSizes.Text" xml:space="preserve">
     <value>Afbeeldingsformaten:</value>
   </data>
+  <data name="FolderManagement.Title" xml:space="preserve">
+    <value>Mappenbeheer!</value>
+  </data>
+  <data name="Private" xml:space="preserve">
+    <value>Privaat</value>
+  </data>
+  <data name="Public" xml:space="preserve">
+    <value>Openbaar</value>
+  </data>
+  <data name="ModuleTitle.Text" xml:space="preserve">
+    <value>Mappenbeheer</value>
+  </data>
 </root>

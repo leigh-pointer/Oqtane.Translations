@@ -165,4 +165,7 @@
   <data name="View.Text" xml:space="preserve">
     <value>Visie</value>
   </data>
+  <data name="ModuleTitle.Text" xml:space="preserve">
+    <value>Html/tekst bewerken</value>
+  </data>
 </root>
