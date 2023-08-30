@@ -129,4 +129,25 @@
   <data name="Message.Username.DontExist" xml:space="preserve">
     <value>Gebruiker bestaat niet met opgegeven naam</value>
   </data>
+  <data name="ModuleDefinition" xml:space="preserve">
+    <value>Module</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>Pagina</value>
+  </data>
+  <data name="Folder" xml:space="preserve">
+    <value>Map</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>Weergave</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Bewerking</value>
+  </data>
+  <data name="Utilize" xml:space="preserve">
+    <value>Gebruik</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Blader</value>
+  </data>
 </root>

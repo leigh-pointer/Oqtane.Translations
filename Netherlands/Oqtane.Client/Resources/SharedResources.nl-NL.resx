@@ -405,4 +405,25 @@
   <data name="Search.RecentlyReleased" xml:space="preserve">
     <value>Onlangs uitgebracht</value>
   </data>
+  <data name="From" xml:space="preserve">
+    <value>Van</value>
+  </data>
+  <data name="To" xml:space="preserve">
+    <value>Naar</value>
+  </data>
+  <data name="Password.DigitRequirement" xml:space="preserve">
+    <value>Minstens één cijfer</value>
+  </data>
+  <data name="Password.LowercaseRequirement" xml:space="preserve">
+    <value>Ten minste een kleine letter</value>
+  </data>
+  <data name="Password.PunctuationRequirement" xml:space="preserve">
+    <value>Ten minste één leesteken</value>
+  </data>
+  <data name="Password.UppercaseRequirement" xml:space="preserve">
+    <value>Ten minste een hoofdletter</value>
+  </data>
+  <data name="Password.ValidationCriteria" xml:space="preserve">
+    <value>Wachtwoorden moeten een minimale lengte van {0} tekens hebben, inclusief ten minste {1} unieke tekens, {2}{3}{4}{5} om te voldoen aan de wachtwoordcomexiteitsvereisten voor deze site.</value>
+  </data>
 </root>

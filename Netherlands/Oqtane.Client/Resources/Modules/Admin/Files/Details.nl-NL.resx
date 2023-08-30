@@ -150,7 +150,7 @@
   <data name="Description.Text" xml:space="preserve">
     <value>Omschrijving:</value>
   </data>
-  <data name="ModuleTitle.Text" xml:space="preserve">
+  <data name="File Management" xml:space="preserve">
     <value>Bestandsbeheer</value>
   </data>
 </root>

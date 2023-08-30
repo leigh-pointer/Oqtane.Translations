@@ -228,4 +228,10 @@
   <data name="Message.Password.Complexity" xml:space="preserve">
     <value>Opgegeven wachtwoord voldoet niet aan het complexiteitsbeleid</value>
   </data>
+  <data name="ViewNotification.Text" xml:space="preserve">
+    <value>Weergave</value>
+  </data>
+  <data name="DeleteNotification.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
 </root>

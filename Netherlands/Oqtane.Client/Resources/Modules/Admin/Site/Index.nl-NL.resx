@@ -381,4 +381,13 @@
   <data name="Version.Text" xml:space="preserve">
     <value>Versie:</value>
   </data>
+  <data name="DeleteSite.Header" xml:space="preserve">
+    <value>Site verwijderen</value>
+  </data>
+  <data name="DeleteAlias.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="DeleteAlias.Header" xml:space="preserve">
+    <value>Alias verwijderen</value>
+  </data>
 </root>

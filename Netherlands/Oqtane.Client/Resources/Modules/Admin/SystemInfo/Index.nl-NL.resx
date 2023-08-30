@@ -198,12 +198,6 @@
   <data name="Success.Register" xml:space="preserve">
     <value>Je bent met succes geregistreerd voor updates</value>
   </data>
-  <data name="PackageService.HelpText" xml:space="preserve">
-    <value>Specificeer of de pakketservice is ingeschakeld voor het installeren van modules, thema's en vertalingen</value>
-  </data>
-  <data name="PackageService.Text" xml:space="preserve">
-    <value>Pakketservice ingeschakeld?</value>
-  </data>
   <data name="Swagger.HelpText" xml:space="preserve">
     <value>Specificeer of Swagger is ingeschakeld voor je server-API</value>
   </data>
@@ -293,5 +287,11 @@
   </data>
   <data name="Error.ClearLog" xml:space="preserve">
     <value>Er is een fout opgetreden bij het wissen van het systeemlogboek</value>
+  </data>
+  <data name="PackageManager.HelpText" xml:space="preserve">
+    <value>Geef de pakketbeheerservice op voor het installeren van modules, thema's en vertalingen. Als dit veld leeg is, betekent dit dat de Package Manager-service is uitgeschakeld voor deze installatie.</value>
+  </data>
+  <data name="PackageManager.Text" xml:space="preserve">
+    <value>Pakket manager:</value>
   </data>
 </root>

@@ -225,4 +225,7 @@
   <data name="IsEnabled.Text" xml:space="preserve">
     <value>Ingeschakeld?</value>
   </data>
+  <data name="View License" xml:space="preserve">
+    <value>Rijbewijs bekijken</value>
+  </data>
 </root>

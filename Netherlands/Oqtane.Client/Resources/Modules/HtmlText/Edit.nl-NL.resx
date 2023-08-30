@@ -165,7 +165,19 @@
   <data name="View.Text" xml:space="preserve">
     <value>Visie</value>
   </data>
-  <data name="ModuleTitle.Text" xml:space="preserve">
-    <value>Html/tekst bewerken</value>
+  <data name="Edit Html/Text" xml:space="preserve">
+    <value>Bewerk HTML/tekst</value>
+  </data>
+  <data name="Edit.Heading" xml:space="preserve">
+    <value>Bewerking</value>
+  </data>
+  <data name="Versions.Heading" xml:space="preserve">
+    <value>Versies</value>
+  </data>
+  <data name="HtmlEditor.Heading" xml:space="preserve">
+    <value>Raw HTML-editor</value>
+  </data>
+  <data name="RichTextEditor.Heading" xml:space="preserve">
+    <value>Rich Text-editor</value>
   </data>
 </root>

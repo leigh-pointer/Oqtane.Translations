@@ -396,4 +396,10 @@
   <data name="ProfileClaimTypes.Text" xml:space="preserve">
     <value>Gebruikersprofielclaims:</value>
   </data>
+  <data name="Username" xml:space="preserve">
+    <value>Gebruikersnaam</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Naam</value>
+  </data>
 </root>
