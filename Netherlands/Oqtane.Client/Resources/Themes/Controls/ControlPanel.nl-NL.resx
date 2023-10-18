@@ -189,4 +189,13 @@
   <data name="Confirm.Page.Delete" xml:space="preserve">
     <value>Weet u zeker dat u deze pagina wilt verwijderen?</value>
   </data>
+  <data name="Location" xml:space="preserve">
+    <value>Plaats:</value>
+  </data>
+  <data name="LocationBottom" xml:space="preserve">
+    <value>Onderkant</value>
+  </data>
+  <data name="LocationTop" xml:space="preserve">
+    <value>Bovenkant</value>
+  </data>
 </root>

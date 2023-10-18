@@ -162,9 +162,6 @@
   <data name="License.HelpText" xml:space="preserve">
     <value>De licentie van het thema</value>
   </data>
-  <data name="PackageName.HelpText" xml:space="preserve">
-    <value>De unieke naam van het pakket waaruit deze module is geïnstalleerd</value>
-  </data>
   <data name="PackageName.Text" xml:space="preserve">
     <value>Verpakkingsnaam:</value>
   </data>
@@ -179,5 +176,20 @@
   </data>
   <data name="View License" xml:space="preserve">
     <value>Licentie bekijken</value>
+  </data>
+  <data name="PackageName.HelpText" xml:space="preserve">
+    <value>De unieke naam van het pakket waaruit dit thema is geïnstalleerd. Deze waarde moet worden opgegeven binnen de ITheme-interfacespecificatie van het thema.</value>
+  </data>
+  <data name="Error.Validate" xml:space="preserve">
+    <value>Fout bij valideren van pakket</value>
+  </data>
+  <data name="Message.Download" xml:space="preserve">
+    <value>Pakketversie is geverifieerd. Selecteer de downloadknop om het pakket te verkrijgen.</value>
+  </data>
+  <data name="Message.Validate" xml:space="preserve">
+    <value>Deze pakketversie is niet in de Oqtane-marktplaats geregistreerd, of je hebt niet de rechten om 'm vanaf deze installatie te gebruiken.</value>
+  </data>
+  <data name="Validate" xml:space="preserve">
+    <value>Valideer</value>
   </data>
 </root>

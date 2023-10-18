@@ -120,4 +120,7 @@
   <data name="PageOfPages" xml:space="preserve">
     <value>Page {0} of {1}</value>
   </data>
+  <data name="SearchPlaceholder" xml:space="preserve">
+    <value>Search: {0}  </value>
+  </data>
 </root>

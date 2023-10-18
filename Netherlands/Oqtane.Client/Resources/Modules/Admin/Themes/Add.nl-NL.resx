@@ -132,9 +132,6 @@
   <data name="Search.NoResults" xml:space="preserve">
     <value>Geen thema's komen overeen met de opgegeven criteria of pakketservice is uitgeschakeld</value>
   </data>
-  <data name="Success.Theme.Download" xml:space="preserve">
-    <value>Themapakket succesvol opgeslagen. Je moet uw toepassing &lt;a href={0}&gt;opnieuw starten&lt;/a&gt; om de installatie te voltooien.</value>
-  </data>
   <data name="Download.Heading" xml:space="preserve">
     <value>Marktplaats</value>
   </data>
@@ -143,5 +140,8 @@
   </data>
   <data name="Product" xml:space="preserve">
     <value>Product</value>
+  </data>
+  <data name="Success.Theme.Download" xml:space="preserve">
+    <value>Themapakket succesvol gedownload. U moet uw toepassing &lt;a href={0}&gt;opnieuw starten&lt;/a&gt; om de installatie te voltooien.</value>
   </data>
 </root>

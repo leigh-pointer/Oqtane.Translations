@@ -144,7 +144,10 @@
   <data name="Message.Text" xml:space="preserve">
     <value>Framework is al up-to-date</value>
   </data>
-  <data name="MessgeUpgrade.Text" xml:space="preserve">
-    <value>Upload een Framework-pakket (Oqtane.Framework.version.nupkg) en selecteer vervolgens Upgraden</value>
+  <data name="MessageUpgrade.Text" xml:space="preserve">
+    <value>Upload een raamwerkpakket (Oqtane.Framework.version.nupkg) en selecteer vervolgens Upgrade</value>
+  </data>
+  <data name="Localhost.Text" xml:space="preserve">
+    <value>Je kunt geen systeemupdate uitvoeren in een ontwikkelomgeving</value>
   </data>
 </root>

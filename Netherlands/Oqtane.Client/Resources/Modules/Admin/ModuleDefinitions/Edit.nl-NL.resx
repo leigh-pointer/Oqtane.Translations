@@ -228,4 +228,16 @@
   <data name="View License" xml:space="preserve">
     <value>Rijbewijs bekijken</value>
   </data>
+  <data name="Error.Validate" xml:space="preserve">
+    <value>Fout bij valideren van pakket</value>
+  </data>
+  <data name="Message.Download" xml:space="preserve">
+    <value>Pakketversie is geverifieerd. Selecteer de downloadknop om het pakket te verkrijgen.</value>
+  </data>
+  <data name="Message.Validate" xml:space="preserve">
+    <value>Deze pakketversie is niet geregistreerd in de Oqtane-marktplaats of u heeft niet het recht om deze vanuit deze installatie te gebruiken</value>
+  </data>
+  <data name="Validate" xml:space="preserve">
+    <value>Valideer</value>
+  </data>
 </root>

@@ -402,4 +402,37 @@
   <data name="Name" xml:space="preserve">
     <value>Naam</value>
   </data>
+  <data name="Email" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="ImportUsers.Text" xml:space="preserve">
+    <value>Gebruikers importeren</value>
+  </data>
+  <data name="AuthFlow.Code" xml:space="preserve">
+    <value>code</value>
+  </data>
+  <data name="AuthFlow.CodeIdToken" xml:space="preserve">
+    <value>code idtoken</value>
+  </data>
+  <data name="AuthFlow.CodeIdTokenToken" xml:space="preserve">
+    <value>code idtoken-token</value>
+  </data>
+  <data name="AuthFlow.CodeToken" xml:space="preserve">
+    <value>code token</value>
+  </data>
+  <data name="AuthFlow.IdToken" xml:space="preserve">
+    <value>idtoken</value>
+  </data>
+  <data name="AuthFlow.IdTokenToken" xml:space="preserve">
+    <value>idtoken-token</value>
+  </data>
+  <data name="AuthFlow.None" xml:space="preserve">
+    <value>geen</value>
+  </data>
+  <data name="AuthFlow.Token" xml:space="preserve">
+    <value>teken</value>
+  </data>
+  <data name="AuthResponseType" xml:space="preserve">
+    <value>Type autorisatieantwoord</value>
+  </data>
 </root>

@@ -390,4 +390,16 @@
   <data name="DeleteAlias.Header" xml:space="preserve">
     <value>Alias verwijderen</value>
   </data>
+  <data name="SiteGuid.HelpText" xml:space="preserve">
+    <value>De unieke identificatie voor de site</value>
+  </data>
+  <data name="SiteGuid.Text" xml:space="preserve">
+    <value>ID KAART:</value>
+  </data>
+  <data name="Retention.HelpText" xml:space="preserve">
+    <value>Aantal dagen dat meldingen moeten worden bewaard</value>
+  </data>
+  <data name="Retention.Text" xml:space="preserve">
+    <value>Retentie (dagen):</value>
+  </data>
 </root>

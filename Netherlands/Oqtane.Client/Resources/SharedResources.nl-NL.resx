@@ -426,4 +426,10 @@
   <data name="Password.ValidationCriteria" xml:space="preserve">
     <value>Wachtwoorden moeten een minimale lengte van {0} tekens hebben, inclusief ten minste {1} unieke tekens, {2}{3}{4}{5} om te voldoen aan de wachtwoordcomexiteitsvereisten voor deze site.</value>
   </data>
+  <data name="ProfileInvalid" xml:space="preserve">
+    <value>{0} is niet geldig</value>
+  </data>
+  <data name="ProfileRequired" xml:space="preserve">
+    <value>{0} is vereist</value>
+  </data>
 </root>

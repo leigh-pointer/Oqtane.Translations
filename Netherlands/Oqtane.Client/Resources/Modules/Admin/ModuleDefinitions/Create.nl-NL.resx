@@ -168,4 +168,7 @@
   <data name="Success.Module.Create" xml:space="preserve">
     <value>De broncode voor jouw module is gemaakt op de hieronder gespecificeerde locatie en moet worden gecompileerd om deze functioneel te maken. Zodra het is gecompileerd, moet Je jouw toepassing &lt;a href={0}&gt;Herstart&lt;/a&gt; om de module te activeren.</value>
   </data>
+  <data name="Message.Require.ValidDescription" xml:space="preserve">
+    <value>Je moet een geldige beschrijving opgeven (dwz geen interpunctie)</value>
+  </data>
 </root>

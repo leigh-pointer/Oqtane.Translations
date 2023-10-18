@@ -171,4 +171,10 @@
   <data name="Password.Placeholder" xml:space="preserve">
     <value>Wachtwoord</value>
   </data>
+  <data name="Notify.HelpText" xml:space="preserve">
+    <value>Geef aan of nieuwe gebruikers een e-mailmelding moeten ontvangen</value>
+  </data>
+  <data name="Notify.Text" xml:space="preserve">
+    <value>Op de hoogte stellen?</value>
+  </data>
 </root>

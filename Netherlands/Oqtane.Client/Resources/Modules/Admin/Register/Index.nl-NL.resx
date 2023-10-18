@@ -135,9 +135,6 @@
   <data name="Info.User.AccountCreate" xml:space="preserve">
     <value>Gebruikersaccount aangemaakt. Controleer jouw e-mail voor verificatie-instructies.</value>
   </data>
-  <data name="Error.User.AddInfo" xml:space="preserve">
-    <value>Fout bij toevoegen gebruiker. Zorg ervoor dat het wachtwoord voldoet aan de complexiteitsvereisten en dat de gebruikersnaam nog niet in gebruik is.</value>
-  </data>
   <data name="Message.Password.NoMatch" xml:space="preserve">
     <value>Ingevoerde wachtwoorden komen niet overeen</value>
   </data>
@@ -176,5 +173,8 @@
   </data>
   <data name="Password.HelpText" xml:space="preserve">
     <value>Voer een voldoende veilig wachtwoord in dat voldoet aan de vereisten voor wachtwoordcomplexiteit</value>
+  </data>
+  <data name="Error.User.AddInfo" xml:space="preserve">
+    <value>Fout bij toevoegen van gebruiker. Zorg ervoor dat het wachtwoord voldoet aan de complexiteitsvereisten en dat de gebruikersnaam en het e-mailadres niet al in gebruik zijn.</value>
   </data>
 </root>
