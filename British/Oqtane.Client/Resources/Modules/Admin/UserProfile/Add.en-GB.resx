@@ -144,4 +144,10 @@
   <data name="Send Notification" xml:space="preserve">
     <value>Send Notification</value>
   </data>
+  <data name="Username.Enter" xml:space="preserve">
+    <value>Enter Username</value>
+  </data>
+  <data name="Message.Required" xml:space="preserve">
+    <value>You Must Enter All Required Information</value>
+  </data>
 </root>

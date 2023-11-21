@@ -165,12 +165,6 @@
   <data name="Password.Text" xml:space="preserve">
     <value>Wachtwoord:</value>
   </data>
-  <data name="Photo.HelpText" xml:space="preserve">
-    <value>Een foto van de gebruiker</value>
-  </data>
-  <data name="Photo.Text" xml:space="preserve">
-    <value>Foto:</value>
-  </data>
   <data name="Username.HelpText" xml:space="preserve">
     <value>De unieke gebruikersnaam voor een gebruiker. Merk op dat dit veld niet kan worden gewijzigd.</value>
   </data>

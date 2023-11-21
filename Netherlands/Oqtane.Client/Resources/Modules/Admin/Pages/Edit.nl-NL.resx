@@ -261,12 +261,6 @@
   <data name="Clickable.Text" xml:space="preserve">
     <value>Klikbaar?</value>
   </data>
-  <data name="Meta.HelpText" xml:space="preserve">
-    <value>Voer optioneel metatags in (in precies de vorm waarin je ze wil opnemen in de pagina-uitvoer).</value>
-  </data>
-  <data name="Meta.Text" xml:space="preserve">
-    <value>Meta:</value>
-  </data>
   <data name="Mesage.Page.PathExists" xml:space="preserve">
     <value>Er bestaat al een pagina met pad '{0}' voor deze site. Paginapaden moeten uniek zijn. Mogelijk moet je controleren of er een pagina met dit pad in de Prullenbak staat.</value>
   </data>
@@ -287,5 +281,8 @@
   </data>
   <data name="PageContent.Heading" xml:space="preserve">
     <value>Pagina inhoud</value>
+  </data>
+  <data name="ThemeChanged.Message" xml:space="preserve">
+    <value>Houd er rekening mee dat het overschrijven van het standaard sitethema door een niet-gerelateerd paginathema kan leiden tot compatibiliteitsproblemen voor je site</value>
   </data>
 </root>

@@ -234,4 +234,10 @@
   <data name="DeleteNotification.Text" xml:space="preserve">
     <value>Verwijderen</value>
   </data>
+  <data name="NoNotificationsReceived.Text" xml:space="preserve">
+    <value>Er zijn geen meldingen ontvangen</value>
+  </data>
+  <data name="NoNotificationsSent.Text" xml:space="preserve">
+    <value>Er zijn geen meldingen verzonden</value>
+  </data>
 </root>

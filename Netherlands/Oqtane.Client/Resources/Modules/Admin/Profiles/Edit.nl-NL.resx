@@ -189,4 +189,10 @@
   <data name="Validation.Text" xml:space="preserve">
     <value>Geldigmaking:</value>
   </data>
+  <data name="Rows.HelpText" xml:space="preserve">
+    <value>Het aantal rijen voor tekstinvoer (één is de standaard)</value>
+  </data>
+  <data name="Rows.Text" xml:space="preserve">
+    <value>Rijen:</value>
+  </data>
 </root>

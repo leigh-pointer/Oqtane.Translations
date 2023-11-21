@@ -132,9 +132,6 @@
   <data name="Theme.Select" xml:space="preserve">
     <value>Selecteer thema</value>
   </data>
-  <data name="DefaultContainer.Admin" xml:space="preserve">
-    <value>Standaard beheerderscontainer</value>
-  </data>
   <data name="Aliases.HelpText" xml:space="preserve">
     <value>Voer de alias voor de server in</value>
   </data>
@@ -165,9 +162,6 @@
   <data name="Name.HelpText" xml:space="preserve">
     <value>Voer de naam van de site in</value>
   </data>
-  <data name="AdminContainer.HelpText" xml:space="preserve">
-    <value>Selecteer de beheerderscontainer voor de site</value>
-  </data>
   <data name="SiteTemplate.HelpText" xml:space="preserve">
     <value>Selecteer de sitesjabloon</value>
   </data>
@@ -182,9 +176,6 @@
   </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Site naam:</value>
-  </data>
-  <data name="AdminContainer.Text" xml:space="preserve">
-    <value>Beheerderscontainer:</value>
   </data>
   <data name="SiteTemplate.Text" xml:space="preserve">
     <value>Sitesjabloon:</value>

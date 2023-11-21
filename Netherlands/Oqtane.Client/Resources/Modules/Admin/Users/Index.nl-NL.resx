@@ -435,4 +435,22 @@
   <data name="AuthResponseType" xml:space="preserve">
     <value>Type autorisatieantwoord</value>
   </data>
+  <data name="VerifyUsers.HelpText" xml:space="preserve">
+    <value>Wil je dat bestaande gebruikers een extra e-mailverificatiestap uitvoeren om hun externe login te koppelen?</value>
+  </data>
+  <data name="VerifyUsers.Text" xml:space="preserve">
+    <value>Bestaande gebruikers verifiëren?</value>
+  </data>
+  <data name="AlwaysRemember.HelpText" xml:space="preserve">
+    <value>Als je deze optie inschakelt, wordt er een permanente cookie geplaatst in combinatie met de Cookie Expiration Timespan, waardoor gebruikers automatisch worden aangemeld de volgende keer dat ze de site bezoeken. Standaard gebruikt de site sessiecookies.</value>
+  </data>
+  <data name="AlwaysRemember.Text" xml:space="preserve">
+    <value>Gebruiker altijd onthouden?</value>
+  </data>
+  <data name="CookieExpiration.HelpText" xml:space="preserve">
+    <value>je kunt ervoor kiezen om voor elke site een aangepaste vervaltijd voor authenticatiecookies te gebruiken (bijvoorbeeld '08:00:00' gedurende 8 uur). De standaardwaarde is 14 dagen als dit niet is opgegeven.</value>
+  </data>
+  <data name="CookieExpiration.Text" xml:space="preserve">
+    <value>Vervaltijd van cookies:</value>
+  </data>
 </root>
