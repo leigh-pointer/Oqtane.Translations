@@ -432,4 +432,13 @@
   <data name="ProfileRequired" xml:space="preserve">
     <value>{0} Is Required  </value>
   </data>
+  <data name="Test" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="Uninstall" xml:space="preserve">
+    <value>Uninstall</value>
+  </data>
+  <data name="Message.EffectiveExpiryDateError" xml:space="preserve">
+    <value>Effective Date cannot be after Expiry Date.</value>
+  </data>
 </root>

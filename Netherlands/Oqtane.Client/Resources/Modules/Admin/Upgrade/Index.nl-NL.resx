@@ -126,9 +126,6 @@
   <data name="Framework.HelpText" xml:space="preserve">
     <value>Upload een framework-pakket en selecteer Installeren om de installatie te voltooien</value>
   </data>
-  <data name="Framework.Text" xml:space="preserve">
-    <value>Kader:</value>
-  </data>
   <data name="Info.Upgrade.Wait" xml:space="preserve">
     <value>Wees geduldig terwijl de upgrade wordt uitgevoerd...</value>
   </data>
@@ -149,5 +146,8 @@
   </data>
   <data name="Localhost.Text" xml:space="preserve">
     <value>Je kunt geen systeemupdate uitvoeren in een ontwikkelomgeving</value>
+  </data>
+  <data name="Framework.Text" xml:space="preserve">
+    <value>Kader:</value>
   </data>
 </root>

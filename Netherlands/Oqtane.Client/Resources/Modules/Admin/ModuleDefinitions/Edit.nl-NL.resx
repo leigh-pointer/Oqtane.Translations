@@ -195,9 +195,6 @@
   <data name="Information.Text" xml:space="preserve">
     <value>Informatie</value>
   </data>
-  <data name="PackageName.HelpText" xml:space="preserve">
-    <value>De unieke naam van het pakket waaruit deze module is geïnstalleerd</value>
-  </data>
   <data name="PackageName.Text" xml:space="preserve">
     <value>Verpakkingsnaam:</value>
   </data>
@@ -239,5 +236,14 @@
   </data>
   <data name="Validate" xml:space="preserve">
     <value>Valideer</value>
+  </data>
+  <data name="Pages.Heading" xml:space="preserve">
+    <value>Pagina's</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Bladeren</value>
+  </data>
+  <data name="PackageName.HelpText" xml:space="preserve">
+    <value>De unieke naam van het pakket waaruit deze module is geïnstalleerd. Deze waarde moet worden opgegeven binnen de IModule-interfacespecificatie van de module.</value>
   </data>
 </root>

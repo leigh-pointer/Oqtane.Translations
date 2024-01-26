@@ -121,7 +121,7 @@
     <value>Message: </value>
   </data>
   <data name="Message.User.Invalid" xml:space="preserve">
-    <value>User Does Not Exist. Please Verify That The Username Provided Is Correct.</value>
+    <value>The User Specified Does Not Exist</value>
   </data>
   <data name="Error.Notification.Add" xml:space="preserve">
     <value>Error Adding Notification</value>

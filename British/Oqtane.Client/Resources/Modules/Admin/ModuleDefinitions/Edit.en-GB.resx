@@ -196,7 +196,7 @@
     <value>Information</value>
   </data>
   <data name="PackageName.HelpText" xml:space="preserve">
-    <value>The unique name of the package from which this module was installed</value>
+    <value>The unique name of the package from which this module was installed. This value must be specified within the module's IModule interface specification.</value>
   </data>
   <data name="PackageName.Text" xml:space="preserve">
     <value>Package Name:</value>
@@ -239,5 +239,11 @@
   </data>
   <data name="Error.Validate" xml:space="preserve">
     <value>Error Validating Package</value>
+  </data>
+  <data name="Pages.Heading" xml:space="preserve">
+    <value>Pages</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Browse</value>
   </data>
 </root>

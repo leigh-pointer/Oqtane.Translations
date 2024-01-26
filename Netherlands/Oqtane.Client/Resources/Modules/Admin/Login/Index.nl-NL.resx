@@ -204,9 +204,6 @@
   <data name="ExternalLoginStatus.DuplicateEmail" xml:space="preserve">
     <value>Er bestaan al meerdere gebruikersaccounts met het e-mailadres van jouw externe login. Neem contact op met jouw beheerder voor verdere instructies.</value>
   </data>
-  <data name="ExternalLoginStatus.InvalidEmail" xml:space="preserve">
-    <value>De externe aanmeldingsprovider heeft geen geldig e-mailadres voor jouw account opgegeven. Neem contact op met jouw beheerder voor verdere instructies.</value>
-  </data>
   <data name="ExternalLoginStatus.ProviderKeyMismatch" xml:space="preserve">
     <value>Er is een fout opgetreden bij het verifiëren van jouw externe login. Neem contact op met jouw beheerder voor verdere instructies.</value>
   </data>
@@ -224,5 +221,11 @@
   </data>
   <data name="ExternalLoginStatus.RemoteFailure" xml:space="preserve">
     <value>Jou externe aanmelding is mislukt. Neem contact op met jou beheerder voor verdere instructies.</value>
+  </data>
+  <data name="ExternalLoginStatus.MissingClaims" xml:space="preserve">
+    <value>De externe inlogprovider heeft niet alle vereiste informatie verstrekt. Neem contact op met uw beheerder voor verdere instructies.</value>
+  </data>
+  <data name="ExternalLoginStatus.ReviewClaims" xml:space="preserve">
+    <value>De optie voor het beoordelen van claims is ingeschakeld in de externe inloginstellingen. Bezoek het gebeurtenislogboek om de door de aanbieder geretourneerde claims te bekijken.</value>
   </data>
 </root>

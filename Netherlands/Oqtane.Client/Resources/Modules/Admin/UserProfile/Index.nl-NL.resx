@@ -240,4 +240,7 @@
   <data name="NoNotificationsSent.Text" xml:space="preserve">
     <value>Er zijn geen meldingen verzonden</value>
   </data>
+  <data name="Message.User.NoEmail" xml:space="preserve">
+    <value>U moet een e-mailadres opgeven voor uw gebruikersaccount</value>
+  </data>
 </root>

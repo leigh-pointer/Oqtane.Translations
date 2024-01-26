@@ -4,6 +4,6 @@
 | ------------------- | ----------------------------------- | ------------------- |
 | Language            | English (Britihs)
 | Culture             | en-GB
-| For Oqtane          | 5.0.0 release
-| Last Update         | 2023-nOV-21
+| For Oqtane          | 5.0.2 release
+| Last Update         | 2024-Jan-26
 | Maintained by       | [Leigh Pointer](https://www.studio-elf.net)

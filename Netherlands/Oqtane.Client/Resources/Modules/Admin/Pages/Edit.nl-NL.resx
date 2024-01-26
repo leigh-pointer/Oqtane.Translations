@@ -285,4 +285,16 @@
   <data name="ThemeChanged.Message" xml:space="preserve">
     <value>Houd er rekening mee dat het overschrijven van het standaard sitethema door een niet-gerelateerd paginathema kan leiden tot compatibiliteitsproblemen voor je site</value>
   </data>
+  <data name="EffectiveDate.HelpText" xml:space="preserve">
+    <value>De datum waarop deze pagina actief is</value>
+  </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Ingangsdatum:</value>
+  </data>
+  <data name="ExpiryDate.HelpText" xml:space="preserve">
+    <value>De datum waarop deze pagina vervalt</value>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Vervaldatum:</value>
+  </data>
 </root>

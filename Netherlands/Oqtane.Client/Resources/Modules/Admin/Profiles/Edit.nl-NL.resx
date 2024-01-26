@@ -195,4 +195,10 @@
   <data name="Rows.Text" xml:space="preserve">
     <value>Rijen:</value>
   </data>
+  <data name="Autocomplete.HelpText" xml:space="preserve">
+    <value>Met het HTML-autocomplete-attribuut kun je browsergedrag specificeren voor geautomatiseerde gebruikersondersteuning bij het invullen van formulierveldwaarden. Toegestane waarden zijn leeg (standaard), 'aan', 'uit' of een waarde uit de gestandaardiseerde taxonomie die voor dit kenmerk is gedefinieerd.</value>
+  </data>
+  <data name="Autocomplete.Text" xml:space="preserve">
+    <value>Automatisch aanvullen:</value>
+  </data>
 </root>

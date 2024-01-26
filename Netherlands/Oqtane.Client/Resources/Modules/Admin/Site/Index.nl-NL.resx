@@ -171,9 +171,6 @@
   <data name="Logo.HelpText" xml:space="preserve">
     <value>Geef een logo voor de site op</value>
   </data>
-  <data name="FavoriteIcon.HelpText" xml:space="preserve">
-    <value>Specificeer een favicon</value>
-  </data>
   <data name="DefaultTheme.HelpText" xml:space="preserve">
     <value>Selecteer het standaardthema van de site</value>
   </data>
@@ -203,9 +200,6 @@
   </data>
   <data name="PwaSplashIcon.HelpText" xml:space="preserve">
     <value>Voeg een splash-pictogram toe voor je PWA. Het moet een PNG zijn met een afmeting van 512 x 512 pixels.</value>
-  </data>
-  <data name="Tenant.Text" xml:space="preserve">
-    <value>Tenant :</value>
   </data>
   <data name="Aliases.Text" xml:space="preserve">
     <value>aliassen:</value>
@@ -401,5 +395,32 @@
   </data>
   <data name="Retention.Text" xml:space="preserve">
     <value>Retentie (dagen):</value>
+  </data>
+  <data name="FileExtensions.Heading" xml:space="preserve">
+    <value>Bestandsextensies</value>
+  </data>
+  <data name="ImageExtensions.HelpText" xml:space="preserve">
+    <value>Voer een door komma's gescheiden lijst met afbeeldingsbestandsextensies in</value>
+  </data>
+  <data name="ImageExtensions.Text" xml:space="preserve">
+    <value>Afbeeldingsextensies:</value>
+  </data>
+  <data name="UploadableFileExtensions.HelpText" xml:space="preserve">
+    <value>Voer een door komma's gescheiden lijst met uploadbare bestandsextensies in</value>
+  </data>
+  <data name="UploadableFileExtensions.Text" xml:space="preserve">
+    <value>Uploadbare bestandsextensies:</value>
+  </data>
+  <data name="HybridEnabled.HelpText" xml:space="preserve">
+    <value>Geeft aan of de site kan worden geïntegreerd met een externe hybride .NET MAUI-toepassing</value>
+  </data>
+  <data name="HybridEnabled.Text" xml:space="preserve">
+    <value>Hybride ingeschakeld?</value>
+  </data>
+  <data name="FavoriteIcon.HelpText" xml:space="preserve">
+    <value>Geef een favicon op. Het formaat voor de afbeelding moet het formaat 16×16, 32×32, 48×48 of 64×64 pixels hebben en de kleurdiepte 8-bit, 24-bit of 32-bit. Het formaat van de afbeelding moet ICO, PNG of GIF zijn.</value>
+  </data>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>Gegevensbestand:</value>
   </data>
 </root>

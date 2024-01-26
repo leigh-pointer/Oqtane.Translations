@@ -159,9 +159,6 @@
   <data name="Description.Text" xml:space="preserve">
     <value>Omschrijving:</value>
   </data>
-  <data name="FrameworkReference.Text" xml:space="preserve">
-    <value>Kaderreferentie:</value>
-  </data>
   <data name="Location.Text" xml:space="preserve">
     <value>Plaats:</value>
   </data>
@@ -170,5 +167,8 @@
   </data>
   <data name="Message.Require.ValidDescription" xml:space="preserve">
     <value>Je moet een geldige beschrijving opgeven (dwz geen interpunctie)</value>
+  </data>
+  <data name="FrameworkReference.Text" xml:space="preserve">
+    <value>Kaderreferentie:</value>
   </data>
 </root>

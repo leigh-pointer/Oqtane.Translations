@@ -177,9 +177,6 @@
   <data name="Function.Text" xml:space="preserve">
     <value>Functie:</value>
   </data>
-  <data name="Category.Text" xml:space="preserve">
-    <value>Categorie:</value>
-  </data>
   <data name="Page.Text" xml:space="preserve">
     <value>Bladzijde:</value>
   </data>
@@ -206,5 +203,8 @@
   </data>
   <data name="Error.Log.Load" xml:space="preserve">
     <value>Fout bij laden van logboek</value>
+  </data>
+  <data name="Category.Text" xml:space="preserve">
+    <value>Typenaam:</value>
   </data>
 </root>

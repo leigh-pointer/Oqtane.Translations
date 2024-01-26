@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Oqtane.Framework.en-GB</id>
-    <version>4.0.6</version>
+    <version>5.0.2</version>
     <authors>Leigh Pointer</authors>
     <owners>.NET Foundation</owners>
     <title>Oqtane Framework en-GB Translation</title>
@@ -16,11 +16,11 @@
     <releaseNotes></releaseNotes>
     <summary></summary>
     <dependencies>
-      <dependency id="Oqtane.Framework" version="4.0.6" />
+      <dependency id="Oqtane.Framework" version="5.0.2" />
     </dependencies>
   </metadata>
   <files>
-    <file src="..\Oqtane.Server\bin\Release\net7.0\en-GB\Oqtane.Client.resources.dll" target="lib\net7.0\en-GB" />
+    <file src="..\Oqtane.Server\bin\Release\net8.0\en-GB\Oqtane.Client.resources.dll" target="lib\net8.0\en-GB" />
     <file src="..\Oqtane.Client\icon-en-gb.png" target="" />
   </files>
 </package>

@@ -129,9 +129,6 @@
   <data name="OwnerName.Text" xml:space="preserve">
     <value>Naam eigenaar:</value>
   </data>
-  <data name="FrameworkReference.Text" xml:space="preserve">
-    <value>Kaderreferentie:</value>
-  </data>
   <data name="Location.Text" xml:space="preserve">
     <value>Plaats:</value>
   </data>
@@ -161,5 +158,8 @@
   </data>
   <data name="ThemeName.Text" xml:space="preserve">
     <value>Thema Naam:</value>
+  </data>
+  <data name="FrameworkReference.Text" xml:space="preserve">
+    <value>Kaderreferentie:</value>
   </data>
 </root>
