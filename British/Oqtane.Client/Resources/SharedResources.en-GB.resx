@@ -427,10 +427,10 @@
     <value>Passwords Must Have A Minimum Length Of {0} Characters, Including At Least {1} Unique Character(s), {2}{3}{4}{5} To Satisfy Password Compexity Requirements For This Site.</value>
   </data>
   <data name="ProfileInvalid" xml:space="preserve">
-    <value>{0} Is Not Valid  </value>
+    <value>{0} Is Not Valid</value>
   </data>
   <data name="ProfileRequired" xml:space="preserve">
-    <value>{0} Is Required  </value>
+    <value>{0} Is Required</value>
   </data>
   <data name="Test" xml:space="preserve">
     <value>Test</value>
@@ -440,5 +440,26 @@
   </data>
   <data name="Message.EffectiveExpiryDateError" xml:space="preserve">
     <value>Effective Date cannot be after Expiry Date.</value>
+  </data>
+  <data name="RuntimeServer" xml:space="preserve">
+    <value>Server (SignalR)</value>
+  </data>
+  <data name="RenderModeStatic" xml:space="preserve">
+    <value>Static</value>
+  </data>
+  <data name="RenderModeInteractive" xml:space="preserve">
+    <value>Interactive</value>
+  </data>
+  <data name="RenderModeHeadless" xml:space="preserve">
+    <value>Headless (API Only)</value>
+  </data>
+  <data name="RuntimeAuto" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="StaticServer" xml:space="preserve">
+    <value>Static Server Rendering</value>
+  </data>
+  <data name="RuntimeWebAssembly" xml:space="preserve">
+    <value>Client (WebAssembly)</value>
   </data>
 </root>

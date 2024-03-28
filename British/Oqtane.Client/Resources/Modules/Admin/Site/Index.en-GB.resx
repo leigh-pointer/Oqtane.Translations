@@ -423,4 +423,10 @@
   <data name="HybridEnabled.HelpText" xml:space="preserve">
     <value>Specifies if the site can be integrated with an external .NET MAUI hybrid application</value>
   </data>
+  <data name="RenderMode.Text" xml:space="preserve">
+    <value>Render Mode:</value>
+  </data>
+  <data name="RenderMode.HelpText" xml:space="preserve">
+    <value>The default render mode for the site</value>
+  </data>
 </root>

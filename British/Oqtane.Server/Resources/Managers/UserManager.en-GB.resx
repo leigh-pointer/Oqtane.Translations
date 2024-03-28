@@ -117,76 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="NextExecution" xml:space="preserve">
-    <value>Next Execution</value>
+  <data name="VerificationEmailSubject" xml:space="preserve">
+    <value>Email Verification for [SiteName]</value>
   </data>
-  <data name="Disabled" xml:space="preserve">
-    <value>Disabled</value>
+  <data name="VerificationEmailBody" xml:space="preserve">
+    <value>Dear [UserDisplayName],&lt;br&gt;&lt;br&gt;In order to verify the email address associated to your user account, please click the link below:&lt;br&gt;&lt;br&gt; &lt;b&gt;&lt;a href="[URL]"&gt;Click Here To Verify&lt;/a&gt;&lt;/b&gt; &lt;br&gt;&lt;br&gt;If the link is not displayed please copy and paste the following link to your browser &lt;br&gt;&lt;br&gt;  [URL] &lt;br&gt;&lt;br&gt;Thank You!&lt;br&gt;[SiteName] Team</value>
   </data>
-  <data name="Executing" xml:space="preserve">
-    <value>Executing</value>
+  <data name="NoVerificationEmailBody" xml:space="preserve">
+    <value>Dear [UserDisplayName],&lt;br&gt;&lt;br&gt;A user account has been successfully created for you with the username &lt;b&gt;[Username]&lt;/b&gt;. Please &lt;b&gt;&lt;a href="[URL]"&gt;click here to login&lt;/a&gt;&lt;/b&gt;. If you do not know your password, use the forgot password option on the login page to reset your account.&lt;br&gt;&lt;br&gt;Thank You!&lt;br&gt;[SiteName] Team</value>
   </data>
-  <data name="Idle" xml:space="preserve">
-    <value>Idle</value>
+  <data name="NoVerificationEmailSubject" xml:space="preserve">
+    <value>User Account Notification for [SiteName]</value>
   </data>
-  <data name="Every" xml:space="preserve">
-    <value>Every</value>
+  <data name="TwoFactorEmailBody" xml:space="preserve">
+    <value>Dear [UserDisplayName] + ",&lt;br&gt;&lt;br&gt;You requested a secure verification code to log in to your account. Please enter the secure verification code on the site:&lt;br&gt;&lt;br&gt;&lt;b&gt;[Token] &lt;/b&gt;&lt;br&gt;&lt;br&gt;Please note that the code is only valid for 10 minutes so if you are unable to take action within that time period, you should initiate a new login on the [Alias].&lt;br&gt;&lt;br&gt;Thank You!&lt;br&gt;[SiteName] Team"</value>
   </data>
-  <data name="Minute" xml:space="preserve">
-    <value>Minute(s)</value>
+  <data name="TwoFactorEmailSubject" xml:space="preserve">
+    <value>User Verification Code for [SiteName]</value>
   </data>
-  <data name="Hour" xml:space="preserve">
-    <value>Hour(s)</value>
+  <data name="ForgotPasswordEmailBody" xml:space="preserve">
+    <value>Dear [UserDisplayName]&lt;br&gt;&lt;br&gt;You recently requested to reset your password. Please use the link below to complete the process: &lt;b&gt;&lt;a href="[URL]"&gt;&lt;br&gt;&lt;br&gt;Click here to Reset Password&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Please note that the link is only valid for 24 hours so if you are unable to take action within that time period, you should initiate another password reset on the site.&lt;br&gt;&lt;br&gt;If you did not request to reset your password you can safely ignore this message.&lt;br&gt;&lt;br&gt;Thank You!&lt;br&gt;[SiteName] team</value>
   </data>
-  <data name="Day" xml:space="preserve">
-    <value>Day(s)</value>
+  <data name="UserLockoutEmailBody" xml:space="preserve">
+    <value>Dear [UserDisplayName], &lt;br&gt;&lt;br&gt;You attempted multiple times unsuccessfully to log in to your account and it is now locked out. Please wait a few minutes and then try again... or use the link below to reset your password:&lt;br&gt;&lt;br&gt; &lt;b&gt;&lt;a href=[URL]&gt;Reset Password&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Please note that the link is only valid for 24 hours so if you are unable to take action within that time period, you should initiate another password reset on the site &lt;a href="[SiteURL]"&gt;[SiteName]&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Thank You!&lt;br&gt;[SiteName] Team</value>
   </data>
-  <data name="Month" xml:space="preserve">
-    <value>Month(s)</value>
+  <data name="UserLockoutEmailSubject" xml:space="preserve">
+    <value>User Lockout Notification for [SiteName]</value>
   </data>
-  <data name="ViewJobs.Text" xml:space="preserve">
-    <value>View Logs</value>
-  </data>
-  <data name="DeleteJob.Message" xml:space="preserve">
-    <value>Are You Sure You Wish To Delete This Job?</value>
-  </data>
-  <data name="Frequency" xml:space="preserve">
-    <value>Frequency</value>
-  </data>
-  <data name="Start" xml:space="preserve">
-    <value>Start</value>
-  </data>
-  <data name="Stop" xml:space="preserve">
-    <value>Stop</value>
-  </data>
-  <data name="EditJob.Text" xml:space="preserve">
-    <value>Edit</value>
-  </data>
-  <data name="JobLog.Text" xml:space="preserve">
-    <value>Log</value>
-  </data>
-  <data name="Error.Job.Start" xml:space="preserve">
-    <value>An error occurred when starting the job</value>
-  </data>
-  <data name="Error.Job.Stop" xml:space="preserve">
-    <value>An error occurred when stopping the job</value>
-  </data>
-  <data name="Message.Job.Start" xml:space="preserve">
-    <value>The process responsible for executing this job has been started. The next execution will be based on the schedule criteria for the job.</value>
-  </data>
-  <data name="Message.Job.Stop" xml:space="preserve">
-    <value>The process responsible for executing this job has been stopped. In order to restart the process you will need to use the Start button or restart the application.</value>
-  </data>
-  <data name="Week" xml:space="preserve">
-    <value>Week(s)</value>
-  </data>
-  <data name="Once" xml:space="preserve">
-    <value>Execute Once</value>
-  </data>
-  <data name="Message.NoJobs" xml:space="preserve">
-    <value>Please Note That After An Initial Installation You Must &lt;a href={0}&gt;Restart&lt;/a&gt; The Application In Order To Activate The Default Scheduled Jobs.</value>
-  </data>
-  <data name="Refresh.Text" xml:space="preserve">
-    <value>Refresh</value>
+  <data name="ForgotPasswordEmailSubject" xml:space="preserve">
+    <value>Password Reset Notification Sent For [SiteName]</value>
   </data>
 </root>

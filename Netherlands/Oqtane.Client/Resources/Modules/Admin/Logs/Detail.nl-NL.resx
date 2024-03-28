@@ -165,9 +165,6 @@
   <data name="Server.HelpText" xml:space="preserve">
     <value>De server die is getroffen</value>
   </data>
-  <data name="DateTime.Text" xml:space="preserve">
-    <value>Datum Tijd:</value>
-  </data>
   <data name="Level.Text" xml:space="preserve">
     <value>Niveau:</value>
   </data>
@@ -206,5 +203,8 @@
   </data>
   <data name="Category.Text" xml:space="preserve">
     <value>Typenaam:</value>
+  </data>
+  <data name="DateTime.Text" xml:space="preserve">
+    <value>Datum Tijd:</value>
   </data>
 </root>

@@ -441,4 +441,25 @@
   <data name="Message.EffectiveExpiryDateError" xml:space="preserve">
     <value>De ingangsdatum kan niet na de vervaldatum liggen.</value>
   </data>
+  <data name="RuntimeServer" xml:space="preserve">
+    <value>Server (SignaalR)</value>
+  </data>
+  <data name="RuntimeWebAssembly" xml:space="preserve">
+    <value>Klant (WebAssembly)</value>
+  </data>
+  <data name="StaticServer" xml:space="preserve">
+    <value>Statische serverweergave</value>
+  </data>
+  <data name="RuntimeAuto" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="RenderModeHeadless" xml:space="preserve">
+    <value>Hoofdloos (alleen API)</value>
+  </data>
+  <data name="RenderModeInteractive" xml:space="preserve">
+    <value>Interactief</value>
+  </data>
+  <data name="RenderModeStatic" xml:space="preserve">
+    <value>Statisch</value>
+  </data>
 </root>

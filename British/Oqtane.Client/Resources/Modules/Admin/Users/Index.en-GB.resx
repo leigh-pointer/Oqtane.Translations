@@ -421,7 +421,7 @@
     <value>ID Token + Access Token</value>
   </data>
   <data name="AuthFlow.None" xml:space="preserve">
-    <value>none  </value>
+    <value>none</value>
   </data>
   <data name="AuthFlow.Token" xml:space="preserve">
     <value>Access Token</value>

@@ -228,4 +228,7 @@
   <data name="ExternalLoginStatus.ReviewClaims" xml:space="preserve">
     <value>De optie voor het beoordelen van claims is ingeschakeld in de externe inloginstellingen. Bezoek het gebeurtenislogboek om de door de aanbieder geretourneerde claims te bekijken.</value>
   </data>
+  <data name="Register" xml:space="preserve">
+    <value>Aanmelden als nieuwe gebruiker?</value>
+  </data>
 </root>

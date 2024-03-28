@@ -2,8 +2,9 @@
 
 | Spec                | Value                               | Comments
 | ------------------- | ----------------------------------- | ------------------- |
-| Language            | English (Britihs)
+| Language            | English (British)
 | Culture             | en-GB
-| For Oqtane          | 5.0.2 release
-| Last Update         | 2024-Jan-26
+| For Oqtane          | 5.1.0 release
+| Files               | Oqtane.Client.resources.dll, Oqtane.Server.resources.dll
+| Last Update         | 2024-Mar-28
 | Maintained by       | [Leigh Pointer](https://www.studio-elf.net)

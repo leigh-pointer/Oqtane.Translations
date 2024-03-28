@@ -201,12 +201,6 @@
   <data name="PwaSplashIcon.HelpText" xml:space="preserve">
     <value>Voeg een splash-pictogram toe voor je PWA. Het moet een PNG zijn met een afmeting van 512 x 512 pixels.</value>
   </data>
-  <data name="Aliases.Text" xml:space="preserve">
-    <value>aliassen:</value>
-  </data>
-  <data name="IsDeleted.Text" xml:space="preserve">
-    <value>Is verwijderd?</value>
-  </data>
   <data name="Logo.Text" xml:space="preserve">
     <value>Logo:</value>
   </data>
@@ -290,9 +284,6 @@
   </data>
   <data name="DefaultAlias.Text" xml:space="preserve">
     <value>Standaardalias:</value>
-  </data>
-  <data name="Aliases.Heading" xml:space="preserve">
-    <value>aliassen</value>
   </data>
   <data name="AliasName" xml:space="preserve">
     <value>Naam</value>
@@ -422,5 +413,20 @@
   </data>
   <data name="Tenant.Text" xml:space="preserve">
     <value>Gegevensbestand:</value>
+  </data>
+  <data name="RenderMode.HelpText" xml:space="preserve">
+    <value>De standaardweergavemodus voor de site</value>
+  </data>
+  <data name="RenderMode.Text" xml:space="preserve">
+    <value>Rendermodus:</value>
+  </data>
+  <data name="Aliases.Text" xml:space="preserve">
+    <value>URL's:</value>
+  </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>Verwijderd?</value>
+  </data>
+  <data name="Aliases.Heading" xml:space="preserve">
+    <value>Site-URL's</value>
   </data>
 </root>

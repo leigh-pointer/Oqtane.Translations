@@ -132,14 +132,8 @@
   <data name="Theme.Select" xml:space="preserve">
     <value>Selecteer thema</value>
   </data>
-  <data name="Aliases.HelpText" xml:space="preserve">
-    <value>Voer de alias voor de server in</value>
-  </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
     <value>Selecteer de standaardcontainer voor de site</value>
-  </data>
-  <data name="Aliases.Text" xml:space="preserve">
-    <value>aliassen:</value>
   </data>
   <data name="DefaultTheme.Text" xml:space="preserve">
     <value>Standaard thema:</value>
@@ -192,12 +186,6 @@
   <data name="Error.Database.LoadConfig" xml:space="preserve">
     <value>Fout bij laden van databaseconfiguratiebeheer</value>
   </data>
-  <data name="Prerender.HelpText" xml:space="preserve">
-    <value>Specificeert of de site vooraf moet worden weergegeven (voor zoekcrawlers, enz...)</value>
-  </data>
-  <data name="Prerender.Text" xml:space="preserve">
-    <value>Vooraf?</value>
-  </data>
   <data name="Runtime.HelpText" xml:space="preserve">
     <value>Het Blazor runtime-hostingmodel</value>
   </data>
@@ -245,5 +233,17 @@
   </data>
   <data name="ConnectionString.Text" xml:space="preserve">
     <value>Instellingen:</value>
+  </data>
+  <data name="RenderMode.HelpText" xml:space="preserve">
+    <value>De standaardweergavemodus voor de site</value>
+  </data>
+  <data name="RenderMode.Text" xml:space="preserve">
+    <value>Rendermodus:</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>De URL's voor de site (door komma's gescheiden). Dit kunnen domeinnamen zijn (bijv. domein.com), subdomeinen (bijv. sub.domein.com) of een virtuele map (bijv. domein.com/map).</value>
+  </data>
+  <data name="Aliases.Text" xml:space="preserve">
+    <value>URL's:</value>
   </data>
 </root>

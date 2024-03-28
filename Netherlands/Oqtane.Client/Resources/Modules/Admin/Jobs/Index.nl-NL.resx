@@ -144,14 +144,8 @@
   <data name="Month" xml:space="preserve">
     <value>Maand</value>
   </data>
-  <data name="Error.Job.Delete" xml:space="preserve">
-    <value>Fout bij verwijderen taak</value>
-  </data>
   <data name="ViewJobs.Text" xml:space="preserve">
     <value>Logboeken bekijken</value>
-  </data>
-  <data name="DeleteJob.Header" xml:space="preserve">
-    <value>Taak verwijderen</value>
   </data>
   <data name="DeleteJob.Message" xml:space="preserve">
     <value>Weet je zeker dat je deze taak wil verwijderen?</value>
@@ -164,9 +158,6 @@
   </data>
   <data name="Stop" xml:space="preserve">
     <value>Stop</value>
-  </data>
-  <data name="DeleteJob.Text" xml:space="preserve">
-    <value>Verwijderen</value>
   </data>
   <data name="EditJob.Text" xml:space="preserve">
     <value>Bewerk</value>

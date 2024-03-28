@@ -177,4 +177,7 @@
   <data name="Error.User.AddInfo" xml:space="preserve">
     <value>Fout bij toevoegen van gebruiker. Zorg ervoor dat het wachtwoord voldoet aan de complexiteitsvereisten en dat de gebruikersnaam en het e-mailadres niet al in gebruik zijn.</value>
   </data>
+  <data name="Login" xml:space="preserve">
+    <value>Heb je al een account? Log nu in.</value>
+  </data>
 </root>

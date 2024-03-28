@@ -117,76 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="NextExecution" xml:space="preserve">
-    <value>Next Execution</value>
+  <data name="ForgotPasswordEmailBody" xml:space="preserve">
+    <value>Beste [UserDisplayName]&lt;br&gt;&lt;br&gt;Je hebt onlangs een verzoek ingediend om je wachtwoord opnieuw in te stellen. Gebruik de onderstaande link om het proces te voltooien: &lt;b&gt;&lt;a href="[URL]"&gt;&lt;br&gt;&lt;br&gt;Klik hier om het wachtwoord opnieuw in te stellen&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Let op: dat de link slechts 24 uur geldig is, dus als u binnen die periode geen actie kunt ondernemen, moet u een nieuwe wachtwoordreset uitvoeren op de site.&lt;br&gt;&lt;br&gt;Als u niet heeft gevraagd om uw wachtwoord opnieuw in te stellen, kunt u dit veilig doen negeer dit bericht.&lt;br&gt;&lt;br&gt;Bedankt!&lt;br&gt;[SiteName] team</value>
   </data>
-  <data name="Disabled" xml:space="preserve">
-    <value>Disabled</value>
+  <data name="ForgotPasswordEmailSubject" xml:space="preserve">
+    <value>Melding voor opnieuw instellen van wachtwoord verzonden voor [SiteName]</value>
   </data>
-  <data name="Executing" xml:space="preserve">
-    <value>Executing</value>
+  <data name="NoVerificationEmailBody" xml:space="preserve">
+    <value>Beste [UserDisplayName],&lt;br&gt;&lt;br&gt;Er is succesvol een gebruikersaccount voor u aangemaakt met de gebruikersnaam &lt;b&gt;[Username]&lt;/b&gt;. &lt;b&gt;&lt;a href="[URL]"&gt;klik hier om in te loggen&lt;/a&gt;&lt;/b&gt;. Als u uw wachtwoord niet weet, gebruikt u de optie Wachtwoord vergeten op de inlogpagina om uw account opnieuw in te stellen.&lt;br&gt;&lt;br&gt;Bedankt!&lt;br&gt;[SiteName] Team</value>
   </data>
-  <data name="Idle" xml:space="preserve">
-    <value>Idle</value>
+  <data name="NoVerificationEmailSubject" xml:space="preserve">
+    <value>Gebruikersaccountmelding voor [SiteName]</value>
   </data>
-  <data name="Every" xml:space="preserve">
-    <value>Every</value>
+  <data name="TwoFactorEmailBody" xml:space="preserve">
+    <value>Beste [UserDisplayName] + ",&lt;br&gt;&lt;br&gt;Je hebt een veilige verificatiecode aangevraagd om in te loggen op je account. Voer de veilige verificatiecode in op de site:&lt;br&gt;&lt;br&gt;&lt;b&gt;[Token] &lt;/ b&gt;&lt;br&gt;&lt;br&gt;Houd er rekening mee dat de code slechts 10 minuten geldig is. Als u binnen die periode geen actie kunt ondernemen, moet u opnieuw inloggen op de [Alias].&lt;br&gt;&lt;br&gt; Bedankt!&lt;br&gt;[SiteName] Team"</value>
   </data>
-  <data name="Minute" xml:space="preserve">
-    <value>Minute(s)</value>
+  <data name="TwoFactorEmailSubject" xml:space="preserve">
+    <value>Gebruikersverificatiecode voor [SiteName]</value>
   </data>
-  <data name="Hour" xml:space="preserve">
-    <value>Hour(s)</value>
+  <data name="UserLockoutEmailBody" xml:space="preserve">
+    <value>Beste [UserDisplayName], &lt;br&gt;&lt;br&gt;Je hebt meerdere keren tevergeefs geprobeerd in te loggen op je account en deze is nu geblokkeerd. Wacht een paar minuten en probeer het opnieuw... of gebruik de onderstaande link om uw wachtwoord opnieuw in te stellen:&lt;br&gt;&lt;br&gt; &lt;b&gt;&lt;a href=[URL]&gt;Wachtwoord opnieuw instellen&lt;/a&gt;&lt;/b&gt;&lt; br&gt;&lt;br&gt;Houd er rekening mee dat de link slechts 24 uur geldig is, dus als u binnen die periode geen actie kunt ondernemen, moet u het wachtwoord opnieuw instellen op de site &lt;a href="[SiteURL]"&gt;[SiteName ]&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Bedankt!&lt;br&gt;[SiteName] Team</value>
   </data>
-  <data name="Day" xml:space="preserve">
-    <value>Day(s)</value>
+  <data name="UserLockoutEmailSubject" xml:space="preserve">
+    <value>Melding gebruikersblokkering voor [SiteName]</value>
   </data>
-  <data name="Month" xml:space="preserve">
-    <value>Month(s)</value>
+  <data name="VerificationEmailBody" xml:space="preserve">
+    <value>Beste [UserDisplayName],&lt;br&gt;&lt;br&gt;Om het e-mailadres dat aan uw gebruikersaccount is gekoppeld, te verifiëren, klikt u op de onderstaande link:&lt;br&gt;&lt;br&gt; &lt;b&gt;&lt;a href="[URL]"&gt;Klik Hier ter verificatie&lt;/a&gt;&lt;/b&gt; &lt;br&gt;&lt;br&gt;Als de link niet wordt weergegeven, kopieer en plak dan de volgende link in uw browser &lt;br&gt;&lt;br&gt; [URL] &lt;br&gt;&lt;br&gt;Bedankt !&lt;br&gt;[Sitenaam]-team</value>
   </data>
-  <data name="ViewJobs.Text" xml:space="preserve">
-    <value>View Logs</value>
-  </data>
-  <data name="DeleteJob.Message" xml:space="preserve">
-    <value>Are You Sure You Wish To Delete This Job?</value>
-  </data>
-  <data name="Frequency" xml:space="preserve">
-    <value>Frequency</value>
-  </data>
-  <data name="Start" xml:space="preserve">
-    <value>Start</value>
-  </data>
-  <data name="Stop" xml:space="preserve">
-    <value>Stop</value>
-  </data>
-  <data name="EditJob.Text" xml:space="preserve">
-    <value>Edit</value>
-  </data>
-  <data name="JobLog.Text" xml:space="preserve">
-    <value>Log</value>
-  </data>
-  <data name="Error.Job.Start" xml:space="preserve">
-    <value>An error occurred when starting the job</value>
-  </data>
-  <data name="Error.Job.Stop" xml:space="preserve">
-    <value>An error occurred when stopping the job</value>
-  </data>
-  <data name="Message.Job.Start" xml:space="preserve">
-    <value>The process responsible for executing this job has been started. The next execution will be based on the schedule criteria for the job.</value>
-  </data>
-  <data name="Message.Job.Stop" xml:space="preserve">
-    <value>The process responsible for executing this job has been stopped. In order to restart the process you will need to use the Start button or restart the application.</value>
-  </data>
-  <data name="Week" xml:space="preserve">
-    <value>Week(s)</value>
-  </data>
-  <data name="Once" xml:space="preserve">
-    <value>Execute Once</value>
-  </data>
-  <data name="Message.NoJobs" xml:space="preserve">
-    <value>Please Note That After An Initial Installation You Must &lt;a href={0}&gt;Restart&lt;/a&gt; The Application In Order To Activate The Default Scheduled Jobs.</value>
-  </data>
-  <data name="Refresh.Text" xml:space="preserve">
-    <value>Refresh</value>
+  <data name="VerificationEmailSubject" xml:space="preserve">
+    <value>E-mailverificatie voor [SiteName]</value>
   </data>
 </root>

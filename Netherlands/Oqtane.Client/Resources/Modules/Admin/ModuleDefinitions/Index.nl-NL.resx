@@ -145,7 +145,7 @@
     <value>Module verwijderen</value>
   </data>
   <data name="InUse" xml:space="preserve">
-    <value>In gebruik</value>
+    <value>In gebruik?</value>
   </data>
   <data name="EditModule.Text" xml:space="preserve">
     <value>Bewerk</value>
