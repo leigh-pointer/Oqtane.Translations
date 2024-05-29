@@ -277,7 +277,7 @@
     <value>Hosting Model</value>
   </data>
   <data name="Prerender.HelpText" xml:space="preserve">
-    <value>Specifies if the site should be prerendered (for search crawlers, etc...)</value>
+    <value>Specifies if interactive components should prerender their output on the server</value>
   </data>
   <data name="Prerender.Text" xml:space="preserve">
     <value>Prerender? </value>

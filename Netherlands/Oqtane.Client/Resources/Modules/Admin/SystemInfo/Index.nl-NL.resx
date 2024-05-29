@@ -246,12 +246,6 @@
   <data name="MachineName.Text" xml:space="preserve">
     <value>Machine naam:</value>
   </data>
-  <data name="TickCount.HelpText" xml:space="preserve">
-    <value>Hoeveelheid tijd dat de service beschikbaar en operationeel is geweest</value>
-  </data>
-  <data name="TickCount.Text" xml:space="preserve">
-    <value>Service-uptime:</value>
-  </data>
   <data name="WebRootPath.HelpText" xml:space="preserve">
     <value>Hoofdpad serverweb</value>
   </data>
@@ -293,5 +287,11 @@
   </data>
   <data name="PackageManager.Text" xml:space="preserve">
     <value>Pakket manager:</value>
+  </data>
+  <data name="Process.HelpText" xml:space="preserve">
+    <value>Geeft aan of het huidige proces 32 bit of 64 bit is</value>
+  </data>
+  <data name="Process.Text" xml:space="preserve">
+    <value>Proces:</value>
   </data>
 </root>

@@ -210,4 +210,16 @@
   <data name="Success.SaveSiteSettings" xml:space="preserve">
     <value>Instellingen succesvol opgeslagen</value>
   </data>
+  <data name="DeleteLogs.Header" xml:space="preserve">
+    <value>Gebeurtenissen wissen</value>
+  </data>
+  <data name="DeleteLogs.Message" xml:space="preserve">
+    <value>Weet je zeker dat je alle loggebeurtenissen wilt verwijderen?</value>
+  </data>
+  <data name="DeleteLogs.Text" xml:space="preserve">
+    <value>Gebeurtenissen wissen</value>
+  </data>
+  <data name="Error.DeleteLogs" xml:space="preserve">
+    <value>Fout bij verwijderen van logboekgebeurtenissen</value>
+  </data>
 </root>

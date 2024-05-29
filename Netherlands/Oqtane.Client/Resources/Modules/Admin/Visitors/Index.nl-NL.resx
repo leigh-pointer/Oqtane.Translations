@@ -192,4 +192,10 @@
   <data name="Correlation.Text" xml:space="preserve">
     <value>Bezoekers correleren?</value>
   </data>
+  <data name="Duration.HelpText" xml:space="preserve">
+    <value>De duur van een browsersessie die als een afzonderlijk bezoek wordt beschouwd (in minuten)</value>
+  </data>
+  <data name="Duration.Text" xml:space="preserve">
+    <value>Sessieduur:</value>
+  </data>
 </root>

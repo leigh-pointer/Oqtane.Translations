@@ -334,7 +334,7 @@
     <value>Cookienaam:</value>
   </data>
   <data name="Disabled" xml:space="preserve">
-    <value>Gehandicapt</value>
+    <value>Uitgeschakeld</value>
   </data>
   <data name="Optional" xml:space="preserve">
     <value>Optioneel</value>

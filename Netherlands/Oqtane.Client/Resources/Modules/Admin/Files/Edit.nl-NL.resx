@@ -195,4 +195,7 @@
   <data name="Folder Management" xml:space="preserve">
     <value>Mapbeheer</value>
   </data>
+  <data name="Message.Folder.Duplicate" xml:space="preserve">
+    <value>Opgegeven mapnaam bestaat al in bovenliggende map</value>
+  </data>
 </root>

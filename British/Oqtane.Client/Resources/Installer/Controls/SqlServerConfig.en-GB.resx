@@ -153,9 +153,6 @@
   <data name="Integrated" xml:space="preserve">
     <value>Integrated</value>
   </data>
-  <data name="Encryption,Text" xml:space="preserve">
-    <value>Encryption:</value>
-  </data>
   <data name="Encryption.HelpText" xml:space="preserve">
     <value>Specify if you are using an encrypted database connection. It is highly recommended to use encryption in a production environment.</value>
   </data>
@@ -170,5 +167,8 @@
   </data>
   <data name="Verifiable" xml:space="preserve">
     <value>Verifiable</value>
+  </data>
+  <data name="Encryption.Text" xml:space="preserve">
+    <value>Encryption:</value>
   </data>
 </root>

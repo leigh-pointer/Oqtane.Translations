@@ -246,9 +246,6 @@
   <data name="Theme.Select" xml:space="preserve">
     <value>Selecteer thema</value>
   </data>
-  <data name="Prerender.HelpText" xml:space="preserve">
-    <value>Specificeert of de site vooraf moet worden weergegeven (voor zoekcrawlers, enz...)</value>
-  </data>
   <data name="Prerender.Text" xml:space="preserve">
     <value>Vooraf?</value>
   </data>
@@ -428,5 +425,8 @@
   </data>
   <data name="Aliases.Heading" xml:space="preserve">
     <value>Site-URL's</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>Specificeert of interactieve componenten hun uitvoer vooraf op de server moeten weergeven</value>
   </data>
 </root>

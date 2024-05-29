@@ -306,12 +306,6 @@
   <data name="Not Specified" xml:space="preserve">
     <value>Niet gespecificeerd</value>
   </data>
-  <data name="BlazorServer" xml:space="preserve">
-    <value>Blazor-server</value>
-  </data>
-  <data name="BlazorWebAssembly" xml:space="preserve">
-    <value>Blazor WebAssembly</value>
-  </data>
   <data name="Settings" xml:space="preserve">
     <value>Instellingen</value>
   </data>
@@ -329,9 +323,6 @@
   </data>
   <data name="PageOfPages" xml:space="preserve">
     <value>Pagina {0} van {1}</value>
-  </data>
-  <data name="BlazorHybrid" xml:space="preserve">
-    <value>Blazor Hybrid</value>
   </data>
   <data name="Oqtane.Marketplace" xml:space="preserve">
     <value>Houd er rekening mee dat extensies van derden zijn geregistreerd in de &lt;a href="https://www.oqtane.net" target="new"&gt;Oqtane Marketplace&lt;/a&gt;, waardoor ze naadloos kunnen worden gedownload en geïnstalleerd in het framework.</value>
@@ -461,5 +452,11 @@
   </data>
   <data name="RenderModeStatic" xml:space="preserve">
     <value>Statisch</value>
+  </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>Uitgeschakeld</value>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Ingeschakeld</value>
   </data>
 </root>

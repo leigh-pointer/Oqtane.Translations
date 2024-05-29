@@ -198,4 +198,7 @@
   <data name="Message.Require.ModuleSelect" xml:space="preserve">
     <value>You Must Select A Module</value>
   </data>
+  <data name="Module.CopyExisting" xml:space="preserve">
+    <value>Copy Existing Module</value>
+  </data>
 </root>

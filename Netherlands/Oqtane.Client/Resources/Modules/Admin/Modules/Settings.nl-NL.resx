@@ -156,9 +156,6 @@
   <data name="Module.Text" xml:space="preserve">
     <value>Module:</value>
   </data>
-  <data name="Module Settings" xml:space="preserve">
-    <value>Module-instellingen</value>
-  </data>
   <data name="Pane.HelpText" xml:space="preserve">
     <value>Het deelvenster waarin de module wordt weergegeven</value>
   </data>
@@ -176,5 +173,20 @@
   </data>
   <data name="ExpiryDate.Text" xml:space="preserve">
     <value>Vervaldatum:</value>
+  </data>
+  <data name="ModuleSettings.Heading" xml:space="preserve">
+    <value>Module-instellingen</value>
+  </data>
+  <data name="Permissions.Text" xml:space="preserve">
+    <value>Rechten</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Rechten</value>
+  </data>
+  <data name="ContainerSettings.Heading" xml:space="preserve">
+    <value>Containerinstellingen</value>
+  </data>
+  <data name="ModuleSettings.Title" xml:space="preserve">
+    <value>Module-instellingen</value>
   </data>
 </root>

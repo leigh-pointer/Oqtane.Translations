@@ -198,4 +198,7 @@
   <data name="LocationTop" xml:space="preserve">
     <value>Bovenkant</value>
   </data>
+  <data name="Module.CopyExisting" xml:space="preserve">
+    <value>Kopieer bestaande module</value>
+  </data>
 </root>

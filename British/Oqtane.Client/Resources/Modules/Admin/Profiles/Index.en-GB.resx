@@ -147,4 +147,7 @@
   <data name="Category" xml:space="preserve">
     <value>Category</value>
   </data>
+  <data name="Detail.Text" xml:space="preserve">
+    <value>Detail</value>
+  </data>
 </root>

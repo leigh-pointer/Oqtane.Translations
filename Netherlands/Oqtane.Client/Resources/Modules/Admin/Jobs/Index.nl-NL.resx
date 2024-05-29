@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -121,7 +121,7 @@
     <value>Volgende uitvoering</value>
   </data>
   <data name="Disabled" xml:space="preserve">
-    <value>Gehandicapt</value>
+    <value>Uitgeschakeld</value>
   </data>
   <data name="Executing" xml:space="preserve">
     <value>uitvoeren</value>
@@ -146,9 +146,6 @@
   </data>
   <data name="ViewJobs.Text" xml:space="preserve">
     <value>Logboeken bekijken</value>
-  </data>
-  <data name="DeleteJob.Message" xml:space="preserve">
-    <value>Weet je zeker dat je deze taak wil verwijderen?</value>
   </data>
   <data name="Frequency" xml:space="preserve">
     <value>Frequentie</value>

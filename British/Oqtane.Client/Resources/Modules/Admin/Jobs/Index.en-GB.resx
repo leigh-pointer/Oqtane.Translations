@@ -147,9 +147,6 @@
   <data name="ViewJobs.Text" xml:space="preserve">
     <value>View Logs</value>
   </data>
-  <data name="DeleteJob.Message" xml:space="preserve">
-    <value>Are You Sure You Wish To Delete This Job?</value>
-  </data>
   <data name="Frequency" xml:space="preserve">
     <value>Frequency</value>
   </data>

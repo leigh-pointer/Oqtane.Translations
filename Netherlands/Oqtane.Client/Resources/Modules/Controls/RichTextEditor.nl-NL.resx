@@ -126,4 +126,7 @@
   <data name="Message.Require.Image" xml:space="preserve">
     <value>Je moet een afbeelding selecteren om in te voegen</value>
   </data>
+  <data name="Placeholder" xml:space="preserve">
+    <value>Voer je inhoud in...</value>
+  </data>
 </root>

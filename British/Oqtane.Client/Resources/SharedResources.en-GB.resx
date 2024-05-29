@@ -312,15 +312,6 @@
   <data name="Not Specified" xml:space="preserve">
     <value>Not Specified</value>
   </data>
-  <data name="BlazorServer" xml:space="preserve">
-    <value>Blazor Server</value>
-  </data>
-  <data name="BlazorWebAssembly" xml:space="preserve">
-    <value>Blazor WebAssembly</value>
-  </data>
-  <data name="BlazorHybrid" xml:space="preserve">
-    <value>Blazor Hybrid</value>
-  </data>
   <data name="Settings" xml:space="preserve">
     <value>Settings</value>
   </data>
@@ -461,5 +452,11 @@
   </data>
   <data name="RuntimeWebAssembly" xml:space="preserve">
     <value>Client (WebAssembly)</value>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Enabled</value>
+  </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>Disabled</value>
   </data>
 </root>

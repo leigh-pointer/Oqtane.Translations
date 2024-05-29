@@ -192,4 +192,10 @@
   <data name="Correlation.Text" xml:space="preserve">
     <value>Correlate Visitors?</value>
   </data>
+  <data name="Duration.Text" xml:space="preserve">
+    <value>Session Duration:</value>
+  </data>
+  <data name="Duration.HelpText" xml:space="preserve">
+    <value>The duration of a browsing session considered to be a distinct visit (in minutes)</value>
+  </data>
 </root>
